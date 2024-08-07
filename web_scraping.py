@@ -29,3 +29,5 @@ for team_url in team_urls:
     all_teams.append(team_data )
     time.sleep(5)
     
+stat_df = pd.concat(all_teams)
+stat_df.to_csv("stats.csv")
