@@ -1,763 +1,608 @@
-,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Team
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Arsenal-
-1,2024-08-24,17:30,Premier League,Matchweek 2,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Arsenal-
-2,2024-08-31,12:30,Premier League,Matchweek 3,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Arsenal-
-3,2024-09-15,14:00,Premier League,Matchweek 4,Sun,Away,,,,Tottenham,,,,,,Head-to-Head,,Arsenal-
-4,2024-09-22,16:30,Premier League,Matchweek 5,Sun,Away,,,,Manchester City,,,,,,Head-to-Head,,Arsenal-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Arsenal-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Arsenal-
-7,2024-10-20,14:00,Premier League,Matchweek 8,Sun,Away,,,,Bournemouth,,,,,,Head-to-Head,,Arsenal-
-8,2024-10-27,16:30,Premier League,Matchweek 9,Sun,Home,,,,Liverpool,,,,,,Head-to-Head,,Arsenal-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Arsenal-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Arsenal-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Arsenal-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Arsenal-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Arsenal-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Arsenal-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Arsenal-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Arsenal-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Arsenal-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Brentford,,,,,,Head-to-Head,,Arsenal-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Arsenal-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Tottenham,,,,,,Head-to-Head,,Arsenal-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Arsenal-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Arsenal-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Arsenal-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Arsenal-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Arsenal-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Arsenal-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Arsenal-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Arsenal-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Home,,,,Fulham,,,,,,Head-to-Head,,Arsenal-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Arsenal-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Arsenal-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Arsenal-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Arsenal-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Arsenal-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Arsenal-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Arsenal-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Southampton,,,,,,Head-to-Head,,Arsenal-
-0,2024-08-17,17:30,Premier League,Matchweek 1,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Aston-Villa-
-1,2024-08-24,17:30,Premier League,Matchweek 2,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Aston-Villa-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Aston-Villa-
-3,2024-09-14,17:30,Premier League,Matchweek 4,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Aston-Villa-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Aston-Villa-
-5,2024-09-29,14:00,Premier League,Matchweek 6,Sun,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Aston-Villa-
-6,2024-10-06,14:00,Premier League,Matchweek 7,Sun,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Aston-Villa-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Aston-Villa-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Aston-Villa-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Aston-Villa-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Aston-Villa-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Aston-Villa-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Aston-Villa-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,Brentford,,,,,,Head-to-Head,,Aston-Villa-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Aston-Villa-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Aston-Villa-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Aston-Villa-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Aston-Villa-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Brighton,,,,,,Head-to-Head,,Aston-Villa-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Aston-Villa-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,Everton,,,,,,Head-to-Head,,Aston-Villa-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Aston-Villa-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Aston-Villa-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Aston-Villa-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Aston-Villa-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Aston-Villa-
-26,2025-02-25,20:00,Premier League,Matchweek 27,Tue,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Aston-Villa-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Aston-Villa-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Aston-Villa-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Away,,,,Brighton,,,,,,Head-to-Head,,Aston-Villa-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Aston-Villa-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Aston-Villa-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Aston-Villa-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Aston-Villa-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Aston-Villa-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Aston-Villa-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Tottenham,,,,,,Head-to-Head,,Aston-Villa-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Aston-Villa-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Bournemouth-
-1,2024-08-25,14:00,Premier League,Matchweek 2,Sun,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Bournemouth-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Bournemouth-
-3,2024-09-14,20:00,Premier League,Matchweek 4,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Bournemouth-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Bournemouth-
-5,2024-09-30,20:00,Premier League,Matchweek 6,Mon,Home,,,,Southampton,,,,,,Head-to-Head,,Bournemouth-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Bournemouth-
-7,2024-10-20,14:00,Premier League,Matchweek 8,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,,Bournemouth-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Bournemouth-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Bournemouth-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Bournemouth-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Bournemouth-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Bournemouth-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,Tottenham,,,,,,Head-to-Head,,Bournemouth-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Bournemouth-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Bournemouth-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Bournemouth-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Bournemouth-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Fulham,,,,,,Head-to-Head,,Bournemouth-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Bournemouth-
-20,2025-01-15,19:45,Premier League,Matchweek 21,Wed,Away,,,,Chelsea,,,,,,Head-to-Head,,Bournemouth-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Bournemouth-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Bournemouth-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Bournemouth-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Bournemouth-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Bournemouth-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Away,,,,Brighton,,,,,,Head-to-Head,,Bournemouth-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Bournemouth-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Bournemouth-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Bournemouth-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Bournemouth-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Bournemouth-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Bournemouth-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Bournemouth-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Bournemouth-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Bournemouth-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Manchester City,,,,,,Head-to-Head,,Bournemouth-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Leicester City,,,,,,Head-to-Head,,Bournemouth-
-0,2024-08-18,14:00,Premier League,Matchweek 1,Sun,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Brentford-
-1,2024-08-25,16:30,Premier League,Matchweek 2,Sun,Away,,,,Liverpool,,,,,,Head-to-Head,,Brentford-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Brentford-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Brentford-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Brentford-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Brentford-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Brentford-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Brentford-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Brentford-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Brentford-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Brentford-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Brentford-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Brentford-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Aston Villa,,,,,,Head-to-Head,,Brentford-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Brentford-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Brentford-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Brentford-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Brighton,,,,,,Head-to-Head,,Brentford-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,,Brentford-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Brentford-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Manchester City,,,,,,Head-to-Head,,Brentford-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Brentford-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Brentford-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Brentford-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Brentford-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Brentford-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Home,,,,Everton,,,,,,Head-to-Head,,Brentford-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Brentford-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Brentford-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Brentford-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Brentford-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Brentford-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Brentford-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Brentford-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Brentford-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Brentford-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Fulham,,,,,,Head-to-Head,,Brentford-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Wolves,,,,,,Head-to-Head,,Brentford-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-1,2024-08-24,12:30,Premier League,Matchweek 2,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-2,2024-08-31,12:30,Premier League,Matchweek 3,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-4,2024-09-22,14:00,Premier League,Matchweek 5,Sun,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-6,2024-10-06,16:30,Premier League,Matchweek 7,Sun,Home,,,,Tottenham,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Fulham,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Brentford,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Aston Villa,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Home,,,,Bournemouth,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Home,,,,Aston Villa,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Liverpool,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Tottenham,,,,,,Head-to-Head,,Brighton-and-Hove-Albion-
-0,2024-08-18,16:30,Premier League,Matchweek 1,Sun,Home,,,,Manchester City,,,,,,Head-to-Head,,Chelsea-
-1,2024-08-25,14:00,Premier League,Matchweek 2,Sun,Away,,,,Wolves,,,,,,Head-to-Head,,Chelsea-
-2,2024-09-01,13:30,Premier League,Matchweek 3,Sun,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Chelsea-
-3,2024-09-14,20:00,Premier League,Matchweek 4,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Chelsea-
-4,2024-09-21,12:30,Premier League,Matchweek 5,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Chelsea-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Chelsea-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Chelsea-
-7,2024-10-19,17:30,Premier League,Matchweek 8,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Chelsea-
-8,2024-10-27,14:00,Premier League,Matchweek 9,Sun,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Chelsea-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Chelsea-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Chelsea-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Chelsea-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Chelsea-
-13,2024-12-04,19:45,Premier League,Matchweek 14,Wed,Away,,,,Southampton,,,,,,Head-to-Head,,Chelsea-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Chelsea-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Chelsea-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Chelsea-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Fulham,,,,,,Head-to-Head,,Chelsea-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Chelsea-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Chelsea-
-20,2025-01-15,19:45,Premier League,Matchweek 21,Wed,Home,,,,Bournemouth,,,,,,Head-to-Head,,Chelsea-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Chelsea-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Chelsea-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Chelsea-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Chelsea-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Chelsea-
-26,2025-02-26,19:45,Premier League,Matchweek 27,Wed,Home,,,,Southampton,,,,,,Head-to-Head,,Chelsea-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Chelsea-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Chelsea-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Home,,,,Tottenham,,,,,,Head-to-Head,,Chelsea-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Chelsea-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Chelsea-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Chelsea-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Chelsea-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Chelsea-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Chelsea-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Chelsea-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Chelsea-
-0,2024-08-18,14:00,Premier League,Matchweek 1,Sun,Away,,,,Brentford,,,,,,Head-to-Head,,Crystal-Palace-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Crystal-Palace-
-2,2024-09-01,13:30,Premier League,Matchweek 3,Sun,Away,,,,Chelsea,,,,,,Head-to-Head,,Crystal-Palace-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Crystal-Palace-
-4,2024-09-21,17:30,Premier League,Matchweek 5,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Crystal-Palace-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Crystal-Palace-
-6,2024-10-05,12:30,Premier League,Matchweek 7,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Crystal-Palace-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Crystal-Palace-
-8,2024-10-27,14:00,Premier League,Matchweek 9,Sun,Home,,,,Tottenham,,,,,,Head-to-Head,,Crystal-Palace-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Crystal-Palace-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Crystal-Palace-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Crystal-Palace-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Crystal-Palace-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Crystal-Palace-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Crystal-Palace-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Crystal-Palace-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Crystal-Palace-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Bournemouth,,,,,,Head-to-Head,,Crystal-Palace-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Southampton,,,,,,Head-to-Head,,Crystal-Palace-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Crystal-Palace-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,Leicester City,,,,,,Head-to-Head,,Crystal-Palace-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Crystal-Palace-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Crystal-Palace-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Crystal-Palace-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Crystal-Palace-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Crystal-Palace-
-26,2025-02-25,20:00,Premier League,Matchweek 27,Tue,Home,,,,Aston Villa,,,,,,Head-to-Head,,Crystal-Palace-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Crystal-Palace-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Crystal-Palace-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,,,,Southampton,,,,,,Head-to-Head,,Crystal-Palace-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Crystal-Palace-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Crystal-Palace-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Crystal-Palace-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Crystal-Palace-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Crystal-Palace-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Crystal-Palace-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Wolves,,,,,,Head-to-Head,,Crystal-Palace-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Liverpool,,,,,,Head-to-Head,,Crystal-Palace-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Everton-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Everton-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Everton-
-3,2024-09-14,17:30,Premier League,Matchweek 4,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Everton-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Everton-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Everton-
-6,2024-10-05,17:30,Premier League,Matchweek 7,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Everton-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Everton-
-8,2024-10-26,17:30,Premier League,Matchweek 9,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Everton-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Everton-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Everton-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Everton-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Everton-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,Wolves,,,,,,Head-to-Head,,Everton-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Everton-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Everton-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Everton-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Manchester City,,,,,,Head-to-Head,,Everton-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Everton-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Everton-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Aston Villa,,,,,,Head-to-Head,,Everton-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Everton-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Everton-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Everton-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Everton-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Everton-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Away,,,,Brentford,,,,,,Head-to-Head,,Everton-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Everton-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Everton-
-29,2025-04-02,20:00,Premier League,Matchweek 30,Wed,Away,,,,Liverpool,,,,,,Head-to-Head,,Everton-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Everton-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Everton-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Everton-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Everton-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Everton-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Everton-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Southampton,,,,,,Head-to-Head,,Everton-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Everton-
-0,2024-08-16,20:00,Premier League,Matchweek 1,Fri,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Fulham-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Fulham-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Fulham-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Fulham-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Fulham-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Fulham-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Fulham-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Fulham-
-8,2024-10-26,17:30,Premier League,Matchweek 9,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Fulham-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Fulham-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Fulham-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Fulham-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Fulham-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,Brighton,,,,,,Head-to-Head,,Fulham-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Fulham-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Fulham-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Fulham-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Chelsea,,,,,,Head-to-Head,,Fulham-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Bournemouth,,,,,,Head-to-Head,,Fulham-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Fulham-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,West Ham,,,,,,Head-to-Head,,Fulham-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Fulham-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Fulham-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Fulham-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Fulham-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Fulham-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Away,,,,Wolves,,,,,,Head-to-Head,,Fulham-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Fulham-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Fulham-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Away,,,,Arsenal,,,,,,Head-to-Head,,Fulham-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Fulham-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Fulham-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Fulham-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Fulham-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Fulham-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Fulham-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Brentford,,,,,,Head-to-Head,,Fulham-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Manchester City,,,,,,Head-to-Head,,Fulham-
-0,2024-08-17,12:30,Premier League,Matchweek 1,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Ipswich-Town-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Ipswich-Town-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Ipswich-Town-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Ipswich-Town-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Ipswich-Town-
-5,2024-09-29,14:00,Premier League,Matchweek 6,Sun,Home,,,,Aston Villa,,,,,,Head-to-Head,,Ipswich-Town-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Ipswich-Town-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Ipswich-Town-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Ipswich-Town-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Ipswich-Town-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Ipswich-Town-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Ipswich-Town-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Ipswich-Town-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Ipswich-Town-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Ipswich-Town-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Ipswich-Town-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Ipswich-Town-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Arsenal,,,,,,Head-to-Head,,Ipswich-Town-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Chelsea,,,,,,Head-to-Head,,Ipswich-Town-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Ipswich-Town-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Brighton,,,,,,Head-to-Head,,Ipswich-Town-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Ipswich-Town-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Ipswich-Town-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Ipswich-Town-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Ipswich-Town-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Ipswich-Town-
-26,2025-02-26,20:00,Premier League,Matchweek 27,Wed,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Ipswich-Town-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Ipswich-Town-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Ipswich-Town-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Away,,,,Bournemouth,,,,,,Head-to-Head,,Ipswich-Town-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Ipswich-Town-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Ipswich-Town-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Ipswich-Town-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Ipswich-Town-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Ipswich-Town-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Ipswich-Town-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Leicester City,,,,,,Head-to-Head,,Ipswich-Town-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,West Ham,,,,,,Head-to-Head,,Ipswich-Town-
-0,2024-08-19,20:00,Premier League,Matchweek 1,Mon,Home,,,,Tottenham,,,,,,Head-to-Head,,Leicester-City-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Leicester-City-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Leicester-City-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Leicester-City-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Leicester-City-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Leicester-City-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Leicester-City-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Leicester-City-
-8,2024-10-25,20:00,Premier League,Matchweek 9,Fri,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Leicester-City-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Leicester-City-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Leicester-City-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Leicester-City-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Leicester-City-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Home,,,,West Ham,,,,,,Head-to-Head,,Leicester-City-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Leicester-City-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Leicester-City-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Leicester-City-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Liverpool,,,,,,Head-to-Head,,Leicester-City-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Manchester City,,,,,,Head-to-Head,,Leicester-City-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Leicester-City-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Leicester-City-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Leicester-City-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Leicester-City-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Leicester-City-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Leicester-City-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Leicester-City-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Away,,,,West Ham,,,,,,Head-to-Head,,Leicester-City-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Leicester-City-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Leicester-City-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,,,,Manchester City,,,,,,Head-to-Head,,Leicester-City-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Leicester-City-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Leicester-City-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Leicester-City-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Leicester-City-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Leicester-City-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Leicester-City-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Leicester-City-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Bournemouth,,,,,,Head-to-Head,,Leicester-City-
-0,2024-08-17,12:30,Premier League,Matchweek 1,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Liverpool-
-1,2024-08-25,16:30,Premier League,Matchweek 2,Sun,Home,,,,Brentford,,,,,,Head-to-Head,,Liverpool-
-2,2024-09-01,16:00,Premier League,Matchweek 3,Sun,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Liverpool-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Liverpool-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Liverpool-
-5,2024-09-28,17:30,Premier League,Matchweek 6,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Liverpool-
-6,2024-10-05,12:30,Premier League,Matchweek 7,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Liverpool-
-7,2024-10-19,17:30,Premier League,Matchweek 8,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Liverpool-
-8,2024-10-27,16:30,Premier League,Matchweek 9,Sun,Away,,,,Arsenal,,,,,,Head-to-Head,,Liverpool-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Liverpool-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Liverpool-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Liverpool-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Liverpool-
-13,2024-12-04,19:45,Premier League,Matchweek 14,Wed,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Liverpool-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Liverpool-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Liverpool-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Liverpool-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Leicester City,,,,,,Head-to-Head,,Liverpool-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,West Ham,,,,,,Head-to-Head,,Liverpool-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Liverpool-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Liverpool-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Liverpool-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Liverpool-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Liverpool-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Liverpool-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Liverpool-
-26,2025-02-26,20:00,Premier League,Matchweek 27,Wed,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Liverpool-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Liverpool-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Liverpool-
-29,2025-04-02,20:00,Premier League,Matchweek 30,Wed,Home,,,,Everton,,,,,,Head-to-Head,,Liverpool-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Liverpool-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Liverpool-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Liverpool-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Liverpool-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Liverpool-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Liverpool-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Brighton,,,,,,Head-to-Head,,Liverpool-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Liverpool-
-0,2024-08-10,15:00,FA Community Shield,FA Community Shield,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Manchester-City-
-1,2024-08-18,16:30,Premier League,Matchweek 1,Sun,Away,,,,Chelsea,,,,,,Head-to-Head,,Manchester-City-
-2,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Manchester-City-
-3,2024-08-31,17:30,Premier League,Matchweek 3,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Manchester-City-
-4,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Manchester-City-
-5,2024-09-22,16:30,Premier League,Matchweek 5,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,,Manchester-City-
-6,2024-09-28,12:30,Premier League,Matchweek 6,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Manchester-City-
-7,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Manchester-City-
-8,2024-10-20,16:30,Premier League,Matchweek 8,Sun,Away,,,,Wolves,,,,,,Head-to-Head,,Manchester-City-
-9,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Manchester-City-
-10,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Manchester-City-
-11,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Manchester-City-
-12,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Manchester-City-
-13,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Manchester-City-
-14,2024-12-04,19:45,Premier League,Matchweek 14,Wed,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Manchester-City-
-15,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Manchester-City-
-16,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Manchester-City-
-17,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Manchester-City-
-18,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Everton,,,,,,Head-to-Head,,Manchester-City-
-19,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Leicester City,,,,,,Head-to-Head,,Manchester-City-
-20,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Manchester-City-
-21,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,Brentford,,,,,,Head-to-Head,,Manchester-City-
-22,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Manchester-City-
-23,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Manchester-City-
-24,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Manchester-City-
-25,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Manchester-City-
-26,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Manchester-City-
-27,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Away,,,,Tottenham,,,,,,Head-to-Head,,Manchester-City-
-28,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Manchester-City-
-29,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Manchester-City-
-30,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Home,,,,Leicester City,,,,,,Head-to-Head,,Manchester-City-
-31,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Manchester-City-
-32,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Manchester-City-
-33,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Manchester-City-
-34,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Manchester-City-
-35,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Manchester-City-
-36,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Manchester-City-
-37,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Bournemouth,,,,,,Head-to-Head,,Manchester-City-
-38,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Fulham,,,,,,Head-to-Head,,Manchester-City-
-0,2024-08-10,15:00,FA Community Shield,FA Community Shield,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Manchester-United-
-1,2024-08-16,20:00,Premier League,Matchweek 1,Fri,Home,,,,Fulham,,,,,,Head-to-Head,,Manchester-United-
-2,2024-08-24,12:30,Premier League,Matchweek 2,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Manchester-United-
-3,2024-09-01,16:00,Premier League,Matchweek 3,Sun,Home,,,,Liverpool,,,,,,Head-to-Head,,Manchester-United-
-4,2024-09-14,12:30,Premier League,Matchweek 4,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Manchester-United-
-5,2024-09-21,17:30,Premier League,Matchweek 5,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Manchester-United-
-6,2024-09-29,16:30,Premier League,Matchweek 6,Sun,Home,,,,Tottenham,,,,,,Head-to-Head,,Manchester-United-
-7,2024-10-06,14:00,Premier League,Matchweek 7,Sun,Away,,,,Aston Villa,,,,,,Head-to-Head,,Manchester-United-
-8,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Manchester-United-
-9,2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,,,,West Ham,,,,,,Head-to-Head,,Manchester-United-
-10,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Manchester-United-
-11,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Manchester-United-
-12,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Manchester-United-
-13,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Manchester-United-
-14,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Arsenal,,,,,,Head-to-Head,,Manchester-United-
-15,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Manchester-United-
-16,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Manchester-United-
-17,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Manchester-United-
-18,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Wolves,,,,,,Head-to-Head,,Manchester-United-
-19,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Manchester-United-
-20,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Manchester-United-
-21,2025-01-15,20:00,Premier League,Matchweek 21,Wed,Home,,,,Southampton,,,,,,Head-to-Head,,Manchester-United-
-22,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Manchester-United-
-23,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Manchester-United-
-24,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Manchester-United-
-25,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Manchester-United-
-26,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Manchester-United-
-27,2025-02-26,20:00,Premier League,Matchweek 27,Wed,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Manchester-United-
-28,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Manchester-United-
-29,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Manchester-United-
-30,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Manchester-United-
-31,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Manchester-United-
-32,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Manchester-United-
-33,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Manchester-United-
-34,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Manchester-United-
-35,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Manchester-United-
-36,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Manchester-United-
-37,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Chelsea,,,,,,Head-to-Head,,Manchester-United-
-38,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Aston Villa,,,,,,Head-to-Head,,Manchester-United-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Newcastle-United-
-1,2024-08-25,14:00,Premier League,Matchweek 2,Sun,Away,,,,Bournemouth,,,,,,Head-to-Head,,Newcastle-United-
-2,2024-09-01,13:30,Premier League,Matchweek 3,Sun,Home,,,,Tottenham,,,,,,Head-to-Head,,Newcastle-United-
-3,2024-09-15,16:30,Premier League,Matchweek 4,Sun,Away,,,,Wolves,,,,,,Head-to-Head,,Newcastle-United-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Newcastle-United-
-5,2024-09-28,12:30,Premier League,Matchweek 6,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Newcastle-United-
-6,2024-10-05,17:30,Premier League,Matchweek 7,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Newcastle-United-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Newcastle-United-
-8,2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,,,,Chelsea,,,,,,Head-to-Head,,Newcastle-United-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Newcastle-United-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Newcastle-United-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Newcastle-United-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Newcastle-United-
-13,2024-12-04,19:45,Premier League,Matchweek 14,Wed,Home,,,,Liverpool,,,,,,Head-to-Head,,Newcastle-United-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Newcastle-United-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Newcastle-United-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Newcastle-United-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Aston Villa,,,,,,Head-to-Head,,Newcastle-United-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Newcastle-United-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Newcastle-United-
-20,2025-01-15,19:45,Premier League,Matchweek 21,Wed,Home,,,,Wolves,,,,,,Head-to-Head,,Newcastle-United-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Newcastle-United-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Newcastle-United-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Newcastle-United-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Newcastle-United-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Newcastle-United-
-26,2025-02-26,20:00,Premier League,Matchweek 27,Wed,Away,,,,Liverpool,,,,,,Head-to-Head,,Newcastle-United-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Newcastle-United-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Newcastle-United-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Home,,,,Brentford,,,,,,Head-to-Head,,Newcastle-United-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Newcastle-United-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Newcastle-United-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Newcastle-United-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Newcastle-United-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Newcastle-United-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Newcastle-United-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Arsenal,,,,,,Head-to-Head,,Newcastle-United-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Everton,,,,,,Head-to-Head,,Newcastle-United-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Nottingham-Forest-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Nottingham-Forest-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Nottingham-Forest-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Nottingham-Forest-
-4,2024-09-22,14:00,Premier League,Matchweek 5,Sun,Away,,,,Brighton,,,,,,Head-to-Head,,Nottingham-Forest-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Nottingham-Forest-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Nottingham-Forest-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Nottingham-Forest-
-8,2024-10-25,20:00,Premier League,Matchweek 9,Fri,Away,,,,Leicester City,,,,,,Head-to-Head,,Nottingham-Forest-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Nottingham-Forest-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Nottingham-Forest-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Nottingham-Forest-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Nottingham-Forest-
-13,2024-12-04,19:45,Premier League,Matchweek 14,Wed,Away,,,,Manchester City,,,,,,Head-to-Head,,Nottingham-Forest-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Nottingham-Forest-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Nottingham-Forest-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Nottingham-Forest-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Tottenham,,,,,,Head-to-Head,,Nottingham-Forest-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Everton,,,,,,Head-to-Head,,Nottingham-Forest-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Nottingham-Forest-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Liverpool,,,,,,Head-to-Head,,Nottingham-Forest-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Nottingham-Forest-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Nottingham-Forest-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Nottingham-Forest-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Nottingham-Forest-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Nottingham-Forest-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Home,,,,Arsenal,,,,,,Head-to-Head,,Nottingham-Forest-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Nottingham-Forest-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Nottingham-Forest-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Nottingham-Forest-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Nottingham-Forest-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Nottingham-Forest-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Nottingham-Forest-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Nottingham-Forest-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Nottingham-Forest-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Nottingham-Forest-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,West Ham,,,,,,Head-to-Head,,Nottingham-Forest-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Chelsea,,,,,,Head-to-Head,,Nottingham-Forest-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Southampton-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Southampton-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Southampton-
-3,2024-09-14,12:30,Premier League,Matchweek 4,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Southampton-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Southampton-
-5,2024-09-30,20:00,Premier League,Matchweek 6,Mon,Away,,,,Bournemouth,,,,,,Head-to-Head,,Southampton-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Southampton-
-7,2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Southampton-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Southampton-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Southampton-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Southampton-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Southampton-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Southampton-
-13,2024-12-04,19:45,Premier League,Matchweek 14,Wed,Home,,,,Chelsea,,,,,,Head-to-Head,,Southampton-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Southampton-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Southampton-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Southampton-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,West Ham,,,,,,Head-to-Head,,Southampton-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Southampton-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Southampton-
-20,2025-01-15,20:00,Premier League,Matchweek 21,Wed,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Southampton-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Southampton-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Southampton-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Southampton-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Southampton-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Southampton-
-26,2025-02-26,19:45,Premier League,Matchweek 27,Wed,Away,,,,Chelsea,,,,,,Head-to-Head,,Southampton-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Southampton-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,Southampton-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Southampton-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,Southampton-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Southampton-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Southampton-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Southampton-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Southampton-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,Southampton-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Everton,,,,,,Head-to-Head,,Southampton-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,,Southampton-
-0,2024-08-19,20:00,Premier League,Matchweek 1,Mon,Away,,,,Leicester City,,,,,,Head-to-Head,,Tottenham-Hotspur-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Tottenham-Hotspur-
-2,2024-09-01,13:30,Premier League,Matchweek 3,Sun,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Tottenham-Hotspur-
-3,2024-09-15,14:00,Premier League,Matchweek 4,Sun,Home,,,,Arsenal,,,,,,Head-to-Head,,Tottenham-Hotspur-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,Tottenham-Hotspur-
-5,2024-09-29,16:30,Premier League,Matchweek 6,Sun,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Tottenham-Hotspur-
-6,2024-10-06,16:30,Premier League,Matchweek 7,Sun,Away,,,,Brighton,,,,,,Head-to-Head,,Tottenham-Hotspur-
-7,2024-10-19,12:30,Premier League,Matchweek 8,Sat,Home,,,,West Ham,,,,,,Head-to-Head,,Tottenham-Hotspur-
-8,2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Tottenham-Hotspur-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Tottenham-Hotspur-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Tottenham-Hotspur-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Tottenham-Hotspur-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Fulham,,,,,,Head-to-Head,,Tottenham-Hotspur-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Bournemouth,,,,,,Head-to-Head,,Tottenham-Hotspur-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,Tottenham-Hotspur-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Tottenham-Hotspur-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Tottenham-Hotspur-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Tottenham-Hotspur-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Wolves,,,,,,Head-to-Head,,Tottenham-Hotspur-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Tottenham-Hotspur-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Away,,,,Arsenal,,,,,,Head-to-Head,,Tottenham-Hotspur-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Everton,,,,,,Head-to-Head,,Tottenham-Hotspur-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Tottenham-Hotspur-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Tottenham-Hotspur-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Tottenham-Hotspur-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Tottenham-Hotspur-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Home,,,,Manchester City,,,,,,Head-to-Head,,Tottenham-Hotspur-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Tottenham-Hotspur-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Tottenham-Hotspur-
-29,2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,,,,Chelsea,,,,,,Head-to-Head,,Tottenham-Hotspur-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Tottenham-Hotspur-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Wolves,,,,,,Head-to-Head,,Tottenham-Hotspur-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Tottenham-Hotspur-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Tottenham-Hotspur-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Tottenham-Hotspur-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Tottenham-Hotspur-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Aston Villa,,,,,,Head-to-Head,,Tottenham-Hotspur-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Brighton,,,,,,Head-to-Head,,Tottenham-Hotspur-
-0,2024-08-17,17:30,Premier League,Matchweek 1,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,West-Ham-United-
-1,2024-08-24,15:00,Premier League,Matchweek 2,Sat,Away,,,,Crystal Palace,,,,,,Head-to-Head,,West-Ham-United-
-2,2024-08-31,17:30,Premier League,Matchweek 3,Sat,Home,,,,Manchester City,,,,,,Head-to-Head,,West-Ham-United-
-3,2024-09-14,15:00,Premier League,Matchweek 4,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,West-Ham-United-
-4,2024-09-21,12:30,Premier League,Matchweek 5,Sat,Home,,,,Chelsea,,,,,,Head-to-Head,,West-Ham-United-
-5,2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,West-Ham-United-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,West-Ham-United-
-7,2024-10-19,12:30,Premier League,Matchweek 8,Sat,Away,,,,Tottenham,,,,,,Head-to-Head,,West-Ham-United-
-8,2024-10-27,14:00,Premier League,Matchweek 9,Sun,Home,,,,Manchester Utd,,,,,,Head-to-Head,,West-Ham-United-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,West-Ham-United-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Everton,,,,,,Head-to-Head,,West-Ham-United-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,West-Ham-United-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,West-Ham-United-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Leicester City,,,,,,Head-to-Head,,West-Ham-United-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,,,,Wolves,,,,,,Head-to-Head,,West-Ham-United-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,West-Ham-United-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,West-Ham-United-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,,,,Southampton,,,,,,Head-to-Head,,West-Ham-United-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,,,,Liverpool,,,,,,Head-to-Head,,West-Ham-United-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,West-Ham-United-
-20,2025-01-14,19:45,Premier League,Matchweek 21,Tue,Home,,,,Fulham,,,,,,Head-to-Head,,West-Ham-United-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,West-Ham-United-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,West-Ham-United-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,West-Ham-United-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,,,,Brentford,,,,,,Head-to-Head,,West-Ham-United-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,West-Ham-United-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Home,,,,Leicester City,,,,,,Head-to-Head,,West-Ham-United-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,West-Ham-United-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Everton,,,,,,Head-to-Head,,West-Ham-United-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Away,,,,Wolves,,,,,,Head-to-Head,,West-Ham-United-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,West-Ham-United-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,West-Ham-United-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,West-Ham-United-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,West-Ham-United-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,West-Ham-United-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,West-Ham-United-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,West-Ham-United-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,,,,Ipswich Town,,,,,,Head-to-Head,,West-Ham-United-
-0,2024-08-17,15:00,Premier League,Matchweek 1,Sat,Away,,,,Arsenal,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-1,2024-08-25,14:00,Premier League,Matchweek 2,Sun,Home,,,,Chelsea,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-2,2024-08-31,15:00,Premier League,Matchweek 3,Sat,Away,,,,Nott'ham Forest,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-3,2024-09-15,16:30,Premier League,Matchweek 4,Sun,Home,,,,Newcastle Utd,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-4,2024-09-21,15:00,Premier League,Matchweek 5,Sat,Away,,,,Aston Villa,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-5,2024-09-28,17:30,Premier League,Matchweek 6,Sat,Home,,,,Liverpool,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-6,2024-10-05,15:00,Premier League,Matchweek 7,Sat,Away,,,,Brentford,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-7,2024-10-20,16:30,Premier League,Matchweek 8,Sun,Home,,,,Manchester City,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-8,2024-10-26,15:00,Premier League,Matchweek 9,Sat,Away,,,,Brighton,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-9,2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,,,,Crystal Palace,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-10,2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,,,,Southampton,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-11,2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,,,,Fulham,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-12,2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,,,,Bournemouth,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-13,2024-12-03,19:45,Premier League,Matchweek 14,Tue,Away,,,,Everton,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-14,2024-12-07,15:00,Premier League,Matchweek 15,Sat,Away,,,,West Ham,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-15,2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,,,,Ipswich Town,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-16,2024-12-21,15:00,Premier League,Matchweek 17,Sat,Away,,,,Leicester City,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-17,2024-12-26,15:00,Premier League,Matchweek 18,Thu,Home,,,,Manchester Utd,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-18,2024-12-29,15:00,Premier League,Matchweek 19,Sun,Away,,,,Tottenham,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-19,2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,,,,Nott'ham Forest,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-20,2025-01-15,19:45,Premier League,Matchweek 21,Wed,Away,,,,Newcastle Utd,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-21,2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,,,,Chelsea,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-22,2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,,,,Arsenal,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-23,2025-02-01,15:00,Premier League,Matchweek 24,Sat,Home,,,,Aston Villa,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-24,2025-02-15,15:00,Premier League,Matchweek 25,Sat,Away,,,,Liverpool,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-25,2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,,,,Bournemouth,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-26,2025-02-25,19:45,Premier League,Matchweek 27,Tue,Home,,,,Fulham,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-27,2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,,,,Everton,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-28,2025-03-15,15:00,Premier League,Matchweek 29,Sat,Away,,,,Southampton,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-29,2025-04-01,19:45,Premier League,Matchweek 30,Tue,Home,,,,West Ham,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-30,2025-04-05,15:00,Premier League,Matchweek 31,Sat,Away,,,,Ipswich Town,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-31,2025-04-12,15:00,Premier League,Matchweek 32,Sat,Home,,,,Tottenham,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-32,2025-04-19,15:00,Premier League,Matchweek 33,Sat,Away,,,,Manchester Utd,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-33,2025-04-26,15:00,Premier League,Matchweek 34,Sat,Home,,,,Leicester City,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-34,2025-05-03,15:00,Premier League,Matchweek 35,Sat,Away,,,,Manchester City,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-35,2025-05-10,15:00,Premier League,Matchweek 36,Sat,Home,,,,Brighton,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-36,2025-05-18,15:00,Premier League,Matchweek 37,Sun,Away,,,,Crystal Palace,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
-37,2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,,,,Brentford,,,,,,Head-to-Head,,Wolverhampton-Wanderers-
+Player,Nation,Pos,Age,MP,Starts,Min,Gls,Ast,PK,CrdY,CrdR,xG,xAG,Team
+Gabriel Dos Santos,br BRA,DF,24,14,14,1260.0,2.0,0.0,0.0,2.0,0.0,2.3,0.2,Arsenal
+Aaron Ramsdale,eng ENG,GK,24,14,14,1260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+William Saliba,fr FRA,DF,21,14,14,1245.0,2.0,1.0,0.0,4.0,0.0,0.3,0.9,Arsenal
+Gabriel Jesus,br BRA,FW,25,14,14,1219.0,5.0,5.0,0.0,4.0,0.0,7.7,2.8,Arsenal
+Martinelli,br BRA,FW,21,14,14,1181.0,5.0,2.0,0.0,1.0,0.0,3.0,3.3,Arsenal
+Bukayo Saka,eng ENG,FW,21,14,14,1171.0,4.0,6.0,1.0,3.0,0.0,4.5,2.9,Arsenal
+Granit Xhaka,ch SUI,MF,30,14,14,1166.0,3.0,3.0,0.0,2.0,0.0,1.5,1.8,Arsenal
+Ben White,eng ENG,DF,25,14,14,1150.0,0.0,2.0,0.0,3.0,0.0,0.3,1.1,Arsenal
+Martin Ødegaard,no NOR,MF,23,13,13,1074.0,6.0,2.0,0.0,2.0,0.0,4.1,2.6,Arsenal
+Thomas Partey,gh GHA,MF,29,11,11,959.0,2.0,0.0,0.0,1.0,0.0,1.0,0.6,Arsenal
+Oleksandr Zinchenko,ua UKR,DF,25,7,7,559.0,0.0,1.0,0.0,0.0,0.0,0.1,0.4,Arsenal
+Takehiro Tomiyasu,jp JPN,DF,24,11,4,410.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,Arsenal
+Kieran Tierney,sct SCO,DF,25,12,3,354.0,0.0,0.0,0.0,0.0,0.0,0.3,0.1,Arsenal
+Albert Sambi Lokonga,be BEL,MF,23,6,2,198.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Fabio Vieira,pt POR,MF,22,8,1,246.0,1.0,1.0,0.0,0.0,0.0,0.3,1.1,Arsenal
+Mohamed Elneny,eg EGY,MF,30,3,1,95.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Eddie Nketiah,eng ENG,"FW,MF",23,12,0,152.0,0.0,0.0,0.0,0.0,0.0,0.7,0.2,Arsenal
+Reiss Nelson,eng ENG,FW,22,2,0,65.0,2.0,1.0,0.0,0.0,0.0,0.6,0.1,Arsenal
+Emile Smith Rowe,eng ENG,"MF,FW",22,4,0,51.0,0.0,0.0,0.0,0.0,0.0,0.1,0.3,Arsenal
+Cédric Soares,pt POR,DF,31,2,0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Rob Holding,eng ENG,DF,27,4,0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Marquinhos,br BRA,MF,19,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Ethan Nwaneri,eng ENG,FW,15,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal
+Karl Jakob Hein,ee EST,GK,20,0,0,,,,,,,,,Arsenal
+Nicolas Pépé,ci CIV,"FW,MF",27,0,0,,,,,,,,,Arsenal
+Matthew Smith,eng ENG,MF,22,0,0,,,,,,,,,Arsenal
+Lino Sousa,eng ENG,DF,17,0,0,,,,,,,,,Arsenal
+Matt Turner,us USA,GK,28,0,0,,,,,,,,,Arsenal
+Squad Total,,,,14,154,1260.0,32.0,24.0,1.0,23.0,0.0,26.2,18.3,Arsenal
+Ederson,br BRA,GK,29,14,14,1260.0,0.0,1.0,0.0,0.0,0.0,0.0,0.2,Manchester-City
+João Cancelo,pt POR,DF,28,14,14,1116.0,2.0,1.0,0.0,3.0,1.0,0.7,0.8,Manchester-City
+Kevin De Bruyne,be BEL,MF,31,14,13,1131.0,3.0,9.0,0.0,0.0,0.0,2.5,6.0,Manchester-City
+Rodri,es ESP,MF,26,13,13,1122.0,0.0,3.0,0.0,1.0,0.0,1.2,0.8,Manchester-City
+Bernardo Silva,pt POR,"MF,FW",28,14,12,1068.0,2.0,5.0,0.0,1.0,0.0,1.3,1.8,Manchester-City
+Erling Haaland,no NOR,FW,22,13,12,1037.0,18.0,3.0,3.0,2.0,0.0,11.1,2.8,Manchester-City
+Phil Foden,eng ENG,"FW,DF",22,14,11,908.0,7.0,4.0,0.0,1.0,0.0,3.7,2.0,Manchester-City
+İlkay Gündoğan,de GER,MF,32,12,10,891.0,2.0,2.0,0.0,0.0,0.0,2.1,2.1,Manchester-City
+Rúben Dias,pt POR,DF,25,12,9,873.0,0.0,0.0,0.0,0.0,0.0,0.6,0.1,Manchester-City
+John Stones,eng ENG,DF,28,9,8,731.0,0.0,2.0,0.0,1.0,0.0,0.4,1.3,Manchester-City
+Manuel Akanji,ch SUI,DF,27,8,8,701.0,0.0,1.0,0.0,1.0,0.0,0.5,0.1,Manchester-City
+Nathan Aké,nl NED,DF,27,8,7,571.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,Manchester-City
+Kyle Walker,eng ENG,DF,32,7,7,560.0,0.0,0.0,0.0,0.0,0.0,0.3,0.1,Manchester-City
+Jack Grealish,eng ENG,FW,27,8,6,547.0,1.0,0.0,0.0,0.0,0.0,0.9,1.2,Manchester-City
+Riyad Mahrez,dz ALG,"FW,MF",31,9,4,372.0,1.0,0.0,0.0,1.0,0.0,1.2,0.5,Manchester-City
+Julián Álvarez,ar ARG,"FW,MF",22,12,3,364.0,3.0,0.0,0.0,0.0,0.0,1.3,0.4,Manchester-City
+Aymeric Laporte,es ESP,DF,28,4,3,286.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,Manchester-City
+Sergio Gómez,es ESP,"DF,MF",22,5,0,111.0,0.0,1.0,0.0,0.0,0.0,0.1,0.4,Manchester-City
+Cole Palmer,eng ENG,"FW,MF",20,7,0,106.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,Manchester-City
+Rico Lewis,eng ENG,"DF,MF",18,3,0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manchester-City
+Kalvin Phillips,eng ENG,MF,26,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manchester-City
+Scott Carson,eng ENG,GK,37,0,0,,,,,,,,,Manchester-City
+Liam Delap,eng ENG,FW,19,0,0,,,,,,,,,Manchester-City
+Claudio Gomes,fr FRA,MF,22,0,0,,,,,,,,,Manchester-City
+Ben Knight,eng ENG,MF,20,0,0,,,,,,,,,Manchester-City
+Luke Mbete-Tatu,eng ENG,DF,19,0,0,,,,,,,,,Manchester-City
+Stefan Ortega,de GER,GK,30,0,0,,,,,,,,,Manchester-City
+Josh Wilson-Esbrand,eng ENG,DF,19,0,0,,,,,,,,,Manchester-City
+Squad Total,,,,14,154,1260.0,39.0,32.0,3.0,11.0,1.0,27.6,20.6,Manchester-City
+Nick Pope,eng ENG,GK,30,15,15,1350.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Newcastle-United
+Kieran Trippier,eng ENG,DF,32,15,15,1324.0,1.0,3.0,0.0,3.0,0.0,0.4,3.7,Newcastle-United
+Miguel Almirón,py PAR,FW,28,15,15,1255.0,8.0,1.0,0.0,0.0,0.0,4.6,1.1,Newcastle-United
+Fabian Schär,ch SUI,DF,30,14,14,1243.0,1.0,0.0,0.0,4.0,0.0,0.9,0.4,Newcastle-United
+Dan Burn,eng ENG,DF,30,15,14,1224.0,0.0,0.0,0.0,2.0,0.0,0.4,0.1,Newcastle-United
+Joe Willock,eng ENG,MF,23,15,13,1114.0,2.0,2.0,0.0,0.0,0.0,2.9,3.1,Newcastle-United
+Joelinton,br BRA,"MF,FW",26,13,12,1060.0,1.0,1.0,0.0,5.0,0.0,2.3,0.9,Newcastle-United
+Sven Botman,nl NED,DF,22,13,12,1057.0,0.0,0.0,0.0,0.0,0.0,0.3,0.9,Newcastle-United
+Bruno Guimarães,br BRA,MF,25,12,12,992.0,3.0,2.0,0.0,1.0,0.0,0.8,1.3,Newcastle-United
+Sean Longstaff,eng ENG,MF,25,15,11,1056.0,1.0,2.0,0.0,2.0,0.0,1.2,1.8,Newcastle-United
+Callum Wilson,eng ENG,FW,30,11,10,787.0,6.0,2.0,1.0,1.0,0.0,6.1,0.6,Newcastle-United
+Jacob Murphy,eng ENG,FW,27,15,5,489.0,1.0,1.0,0.0,0.0,0.0,0.8,0.6,Newcastle-United
+Matt Targett,eng ENG,DF,27,10,4,426.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,Newcastle-United
+Allan Saint-Maximin,fr FRA,FW,25,7,4,378.0,1.0,3.0,0.0,1.0,0.0,0.8,1.2,Newcastle-United
+Ryan Fraser,sct SCO,FW,28,8,3,313.0,0.0,0.0,0.0,1.0,0.0,0.3,0.4,Newcastle-United
+Alexander Isak,se SWE,FW,23,3,3,242.0,2.0,0.0,1.0,0.0,0.0,2.2,0.3,Newcastle-United
+Chris Wood,nz NZL,FW,30,14,2,272.0,1.0,0.0,0.0,0.0,0.0,0.5,0.3,Newcastle-United
+Jamaal Lascelles,eng ENG,DF,29,4,1,107.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Newcastle-United
+Elliot Anderson,sct SCO,"FW,MF",20,7,0,103.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,Newcastle-United
+Jonjo Shelvey,eng ENG,MF,30,3,0,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle-United
+Javier Manquillo,es ESP,DF,28,1,0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle-United
+Jamal Lewis,nir NIR,DF,24,1,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle-United
+Emil Krafth,se SWE,DF,28,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle-United
+Matt Ritchie,sct SCO,FW,33,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle-United
+Karl Darlow,eng ENG,GK,32,0,0,,,,,,,,,Newcastle-United
+Martin Dúbravka,sk SVK,GK,33,0,0,,,,,,,,,Newcastle-United
+Paul Dummett,wls WAL,DF,31,0,0,,,,,,,,,Newcastle-United
+Loris Karius,de GER,GK,29,0,0,,,,,,,,,Newcastle-United
+Squad Total,,,,15,165,1350.0,28.0,17.0,2.0,24.0,0.0,24.3,17.1,Newcastle-United
+Hugo Lloris,fr FRA,GK,35,15,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tottenham-Hotspur
+Harry Kane,eng ENG,FW,29,15,15,1335.0,12.0,1.0,2.0,4.0,0.0,9.4,2.4,Tottenham-Hotspur
+Eric Dier,eng ENG,DF,28,15,14,1285.0,2.0,0.0,0.0,1.0,0.0,0.7,0.7,Tottenham-Hotspur
+Pierre Højbjerg,dk DEN,MF,27,14,14,1244.0,3.0,2.0,0.0,1.0,0.0,0.9,1.3,Tottenham-Hotspur
+Rodrigo Bentancur,uy URU,MF,25,14,13,1182.0,4.0,2.0,0.0,5.0,0.0,1.4,0.8,Tottenham-Hotspur
+Son Heung-min,kr KOR,"MF,FW",30,13,12,1030.0,3.0,2.0,0.0,0.0,0.0,3.5,2.7,Tottenham-Hotspur
+Ben Davies,wls WAL,DF,29,12,11,995.0,2.0,1.0,0.0,1.0,0.0,0.5,1.3,Tottenham-Hotspur
+Emerson,br BRA,DF,23,12,11,899.0,0.0,1.0,0.0,1.0,1.0,1.0,0.3,Tottenham-Hotspur
+Ivan Perišić,hr CRO,"DF,MF",33,15,9,833.0,0.0,4.0,0.0,2.0,0.0,0.9,3.0,Tottenham-Hotspur
+Ryan Sessegnon,eng ENG,DF,22,12,8,662.0,2.0,0.0,0.0,3.0,0.0,1.4,0.7,Tottenham-Hotspur
+Cristian Romero,ar ARG,DF,24,8,7,658.0,0.0,0.0,0.0,1.0,0.0,0.6,0.3,Tottenham-Hotspur
+Dejan Kulusevski,se SWE,"MF,FW",22,9,7,611.0,1.0,5.0,0.0,0.0,0.0,1.0,2.2,Tottenham-Hotspur
+Clément Lenglet,fr FRA,DF,27,8,7,571.0,0.0,1.0,0.0,0.0,0.0,0.6,0.4,Tottenham-Hotspur
+Yves Bissouma,ml MLI,MF,26,14,6,606.0,0.0,0.0,0.0,3.0,0.0,0.2,0.2,Tottenham-Hotspur
+Davinson Sánchez,co COL,DF,26,10,6,531.0,0.0,0.0,0.0,1.0,0.0,0.3,0.1,Tottenham-Hotspur
+Richarlison,br BRA,"MF,FW",25,10,5,439.0,0.0,2.0,0.0,2.0,0.0,1.6,1.3,Tottenham-Hotspur
+Matt Doherty,ie IRL,DF,30,8,3,351.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,Tottenham-Hotspur
+Oliver Skipp,eng ENG,MF,22,6,2,130.0,0.0,0.0,0.0,1.0,0.0,0.1,0.2,Tottenham-Hotspur
+Lucas Moura,br BRA,"MF,DF",30,8,0,98.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Tottenham-Hotspur
+Bryan,es ESP,MF,21,1,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Tottenham-Hotspur
+Djed Spence,eng ENG,"DF,MF",22,3,0,4.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Tottenham-Hotspur
+Fraser Forster,eng ENG,GK,34,0,0,,,,,,,,,Tottenham-Hotspur
+Pape Matar Sarr,sn SEN,MF,20,0,0,,,,,,,,,Tottenham-Hotspur
+Japhet Tanganga,eng ENG,DF,23,0,0,,,,,,,,,Tottenham-Hotspur
+Harvey White,eng ENG,MF,21,0,0,,,,,,,,,Tottenham-Hotspur
+Squad Total,,,,15,165,1350.0,29.0,21.0,2.0,26.0,1.0,24.1,17.8,Tottenham-Hotspur
+David de Gea,es ESP,GK,32,14,14,1260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Manchester-United
+Lisandro Martínez,ar ARG,DF,24,14,14,1204.0,0.0,0.0,0.0,3.0,0.0,0.1,0.0,Manchester-United
+Bruno Fernandes,pt POR,"MF,FW",28,13,13,1169.0,2.0,1.0,0.0,5.0,0.0,2.0,3.2,Manchester-United
+Diogo Dalot,pt POR,DF,23,13,13,1165.0,0.0,1.0,0.0,5.0,0.0,0.6,1.3,Manchester-United
+Marcus Rashford,eng ENG,FW,25,14,13,1126.0,4.0,2.0,0.0,1.0,0.0,4.2,2.0,Manchester-United
+Christian Eriksen,dk DEN,MF,30,13,12,1043.0,1.0,4.0,0.0,1.0,0.0,2.4,1.8,Manchester-United
+Jadon Sancho,eng ENG,FW,22,10,10,714.0,2.0,1.0,0.0,0.0,0.0,1.6,0.8,Manchester-United
+Luke Shaw,eng ENG,DF,27,10,9,783.0,0.0,1.0,0.0,3.0,0.0,0.2,1.4,Manchester-United
+Raphaël Varane,fr FRA,DF,29,10,8,684.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Manchester-United
+Casemiro,br BRA,MF,30,11,7,712.0,1.0,1.0,0.0,2.0,0.0,0.5,0.8,Manchester-United
+Scott McTominay,sct SCO,MF,25,12,6,640.0,0.0,0.0,0.0,5.0,0.0,0.7,0.2,Manchester-United
+Tyrell Malacia,nl NED,DF,23,9,6,567.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Manchester-United
+Antony,br BRA,"FW,MF",22,6,6,491.0,3.0,0.0,0.0,1.0,0.0,1.6,0.4,Manchester-United
+Anthony Elanga,se SWE,FW,20,10,5,369.0,0.0,1.0,0.0,0.0,0.0,0.5,0.8,Manchester-United
+Cristiano Ronaldo,pt POR,FW,37,10,4,525.0,1.0,0.0,0.0,2.0,0.0,1.9,0.4,Manchester-United
+Fred,br BRA,MF,29,11,4,398.0,1.0,0.0,0.0,2.0,0.0,0.8,0.8,Manchester-United
+Victor Lindelöf,se SWE,DF,28,5,3,352.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manchester-United
+Harry Maguire,eng ENG,DF,29,4,3,281.0,0.0,0.0,0.0,3.0,0.0,0.2,0.0,Manchester-United
+Anthony Martial,fr FRA,"FW,MF",26,5,2,201.0,2.0,2.0,1.0,0.0,0.0,1.7,0.8,Manchester-United
+Donny van de Beek,nl NED,MF,25,4,1,87.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manchester-United
+Alejandro Garnacho,es ESP,FW,18,3,1,84.0,1.0,0.0,0.0,1.0,0.0,0.4,0.0,Manchester-United
+Aaron Wan-Bissaka,eng ENG,DF,25,1,0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Manchester-United
+Nathan Bishop,eng ENG,GK,23,0,0,,,,,,,,,Manchester-United
+Martin Dúbravka,sk SVK,GK,33,0,0,,,,,,,,,Manchester-United
+James Garner,eng ENG,MF,21,0,0,,,,,,,,,Manchester-United
+Tom Heaton,eng ENG,GK,36,0,0,,,,,,,,,Manchester-United
+Zidane Iqbal,iq IRQ,MF,19,0,0,,,,,,,,,Manchester-United
+Matej Kovar,cz CZE,GK,22,0,0,,,,,,,,,Manchester-United
+Kobbie Mainoo,eng ENG,MF,17,0,0,,,,,,,,,Manchester-United
+Facundo Pellistri,uy URU,FW,20,0,0,,,,,,,,,Manchester-United
+Shola Shoretire,eng ENG,MF,18,0,0,,,,,,,,,Manchester-United
+Squad Total,,,,14,154,1260.0,18.0,14.0,1.0,37.0,0.0,18.8,14.8,Manchester-United
+Alisson,br BRA,GK,30,14,14,1260.0,0.0,1.0,0.0,0.0,0.0,0.0,0.3,Liverpool
+Virgil van Dijk,nl NED,DF,31,14,14,1260.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,Liverpool
+Mohamed Salah,eg EGY,FW,30,14,14,1236.0,6.0,3.0,0.0,0.0,0.0,7.0,2.2,Liverpool
+Trent Alexander-Arnold,eng ENG,DF,24,14,12,989.0,1.0,0.0,0.0,2.0,0.0,1.1,2.2,Liverpool
+Fabinho,br BRA,MF,29,14,11,997.0,0.0,0.0,0.0,2.0,0.0,0.2,0.5,Liverpool
+Roberto Firmino,br BRA,"FW,MF",31,13,11,929.0,7.0,3.0,0.0,0.0,0.0,4.2,1.8,Liverpool
+Andrew Robertson,sct SCO,DF,28,12,10,861.0,0.0,4.0,0.0,0.0,0.0,0.4,2.4,Liverpool
+Harvey Elliott,eng ENG,MF,19,14,10,859.0,1.0,1.0,0.0,0.0,0.0,1.0,2.2,Liverpool
+Joe Gomez,eng ENG,DF,25,12,9,887.0,0.0,0.0,0.0,2.0,0.0,0.1,0.2,Liverpool
+Thiago Alcántara,es ESP,MF,31,8,8,644.0,0.0,0.0,0.0,1.0,0.0,0.1,0.6,Liverpool
+Jordan Henderson,eng ENG,MF,32,12,7,648.0,0.0,0.0,0.0,0.0,0.0,0.5,1.0,Liverpool
+Luis Díaz,co COL,FW,25,8,7,613.0,3.0,2.0,0.0,2.0,0.0,1.7,1.0,Liverpool
+Darwin Núñez,uy URU,FW,23,10,7,604.0,5.0,2.0,0.0,0.0,1.0,4.7,2.3,Liverpool
+James Milner,eng ENG,"DF,MF",36,12,4,469.0,0.0,1.0,0.0,0.0,0.0,0.3,0.7,Liverpool
+Kostas Tsimikas,gr GRE,DF,26,10,4,367.0,0.0,3.0,0.0,1.0,0.0,0.2,0.7,Liverpool
+Fabio Carvalho,pt POR,"MF,FW",20,11,4,337.0,2.0,0.0,0.0,0.0,0.0,1.1,0.1,Liverpool
+Joël Matip,cm CMR,DF,31,4,3,259.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Diogo Jota,pt POR,"FW,MF",25,4,2,196.0,0.0,1.0,0.0,1.0,0.0,0.8,0.8,Liverpool
+Curtis Jones,eng ENG,MF,21,4,1,172.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,Liverpool
+Ibrahima Konaté,fr FRA,DF,23,2,1,112.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Nathaniel Phillips,eng ENG,DF,25,2,1,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Alex Oxlade-Chamberlain,eng ENG,FW,29,3,0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Liverpool
+Stefan Bajcetic,es ESP,MF,18,1,0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Bobby Clark,eng ENG,MF,17,1,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool
+Adrián,es ESP,GK,35,0,0,,,,,,,,,Liverpool
+Luke Chambers,eng ENG,DF,18,0,0,,,,,,,,,Liverpool
+Harvey Davies,eng ENG,GK,19,0,0,,,,,,,,,Liverpool
+Sepp van den Berg,nl NED,"DF,MF",20,0,0,,,,,,,,,Liverpool
+Ben Doak,sct SCO,FW,17,0,0,,,,,,,,,Liverpool
+Naby Keïta,gn GUI,MF,27,0,0,,,,,,,,,Liverpool
+Caoimhín Kelleher,ie IRL,GK,24,0,0,,,,,,,,,Liverpool
+Arthur Melo,br BRA,MF,26,0,0,,,,,,,,,Liverpool
+Calvin Ramsay,sct SCO,DF,19,0,0,,,,,,,,,Liverpool
+Squad Total,,,,14,154,1260.0,26.0,21.0,0.0,12.0,1.0,24.2,19.1,Liverpool
+Lewis Dunk,eng ENG,DF,31,14,14,1260.0,0.0,0.0,0.0,0.0,0.0,0.7,0.1,Brighton-and-Hove-Albion
+Robert Sánchez,es ESP,GK,25,14,14,1260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton-and-Hove-Albion
+Alexis Mac Allister,ar ARG,MF,23,14,14,1256.0,5.0,0.0,3.0,4.0,0.0,3.6,0.8,Brighton-and-Hove-Albion
+Moisés Caicedo,ec ECU,MF,21,14,14,1245.0,1.0,0.0,0.0,4.0,0.0,0.8,0.8,Brighton-and-Hove-Albion
+Solly March,eng ENG,"DF,FW",28,14,14,1214.0,0.0,2.0,0.0,1.0,0.0,2.6,1.3,Brighton-and-Hove-Albion
+Pascal Groß,de GER,"MF,FW",31,14,14,1192.0,5.0,2.0,0.0,2.0,0.0,2.7,3.4,Brighton-and-Hove-Albion
+Leandro Trossard,be BEL,"FW,MF",27,14,14,1174.0,7.0,2.0,0.0,1.0,0.0,4.3,1.9,Brighton-and-Hove-Albion
+Adam Webster,eng ENG,DF,27,13,13,1170.0,0.0,0.0,0.0,1.0,0.0,1.2,0.0,Brighton-and-Hove-Albion
+Danny Welbeck,eng ENG,FW,32,13,11,996.0,0.0,2.0,0.0,0.0,0.0,3.0,1.8,Brighton-and-Hove-Albion
+Joël Veltman,nl NED,DF,30,13,11,947.0,0.0,0.0,0.0,1.0,0.0,0.5,0.2,Brighton-and-Hove-Albion
+Pervis Estupiñán,ec ECU,DF,24,11,8,631.0,0.0,0.0,0.0,3.0,0.0,0.1,1.7,Brighton-and-Hove-Albion
+Adam Lallana,eng ENG,"MF,FW",34,11,8,489.0,1.0,1.0,0.0,0.0,0.0,0.8,0.8,Brighton-and-Hove-Albion
+Kaoru Mitoma,jp JPN,"FW,MF",25,9,2,314.0,1.0,1.0,0.0,0.0,0.0,0.2,2.2,Brighton-and-Hove-Albion
+Enock Mwepu,zm ZAM,"FW,MF",24,6,2,213.0,0.0,1.0,0.0,0.0,0.0,0.2,0.5,Brighton-and-Hove-Albion
+Levi Colwill,eng ENG,DF,19,3,1,103.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Brighton-and-Hove-Albion
+Tariq Lamptey,gh GHA,DF,22,11,0,188.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Brighton-and-Hove-Albion
+Deniz Undav,de GER,"FW,MF",26,8,0,101.0,0.0,0.0,0.0,0.0,0.0,0.6,0.2,Brighton-and-Hove-Albion
+Julio César Enciso,py PAR,"MF,FW",18,2,0,80.0,0.0,0.0,0.0,1.0,0.0,0.3,0.0,Brighton-and-Hove-Albion
+Billy Gilmour,sct SCO,MF,21,4,0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton-and-Hove-Albion
+Jeremy Sarmiento,ec ECU,"MF,FW",20,2,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton-and-Hove-Albion
+Jan Paul van Hecke,nl NED,DF,22,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton-and-Hove-Albion
+Steven Alzate,co COL,MF,24,0,0,,,,,,,,,Brighton-and-Hove-Albion
+Evan Ferguson,ie IRL,FW,18,0,0,,,,,,,,,Brighton-and-Hove-Albion
+James Furlong,ie IRL,DF,20,0,0,,,,,,,,,Brighton-and-Hove-Albion
+Neal Maupay,fr FRA,"FW,MF",26,0,0,,,,,,,,,Brighton-and-Hove-Albion
+Andrew Moran,ie IRL,DF,19,0,0,,,,,,,,,Brighton-and-Hove-Albion
+Jason Steele,eng ENG,GK,32,0,0,,,,,,,,,Brighton-and-Hove-Albion
+Ed Turns,wls WAL,DF,20,0,0,,,,,,,,,Brighton-and-Hove-Albion
+Squad Total,,,,14,154,1260.0,20.0,11.0,3.0,19.0,0.0,21.5,15.7,Brighton-and-Hove-Albion
+Mason Mount,eng ENG,"MF,FW",23,14,13,1030.0,2.0,2.0,0.0,2.0,0.0,1.5,1.6,Chelsea
+Ruben Loftus-Cheek,eng ENG,"MF,DF",26,14,12,954.0,0.0,0.0,0.0,1.0,0.0,0.8,0.9,Chelsea
+Thiago Silva,br BRA,DF,38,12,11,1074.0,0.0,2.0,0.0,1.0,0.0,0.5,0.4,Chelsea
+Raheem Sterling,eng ENG,"FW,MF",27,12,11,950.0,3.0,1.0,0.0,3.0,0.0,3.0,2.1,Chelsea
+Jorginho,it ITA,MF,30,13,11,903.0,2.0,0.0,2.0,3.0,0.0,1.7,0.2,Chelsea
+Kai Havertz,de GER,"FW,MF",23,13,11,883.0,3.0,0.0,0.0,3.0,0.0,2.8,0.4,Chelsea
+Marc Cucurella,es ESP,DF,24,13,11,847.0,0.0,2.0,0.0,2.0,0.0,0.3,0.3,Chelsea
+Edouard Mendy,sn SEN,GK,30,9,8,765.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Chelsea
+Kalidou Koulibaly,sn SEN,DF,31,9,8,742.0,1.0,0.0,0.0,4.0,1.0,0.4,0.2,Chelsea
+Trevoh Chalobah,eng ENG,DF,23,8,8,720.0,0.0,0.0,0.0,1.0,0.0,0.3,0.0,Chelsea
+César Azpilicueta,es ESP,DF,33,11,7,672.0,0.0,0.0,0.0,2.0,0.0,0.1,0.7,Chelsea
+Conor Gallagher,eng ENG,"MF,FW",22,12,7,498.0,1.0,1.0,0.0,3.0,1.0,0.5,1.3,Chelsea
+Reece James,eng ENG,"DF,MF",22,7,6,559.0,1.0,1.0,0.0,3.0,0.0,0.7,1.6,Chelsea
+Kepa Arrizabalaga,es ESP,GK,28,6,6,495.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea
+Mateo Kovačić,hr CRO,MF,28,11,5,635.0,0.0,1.0,0.0,2.0,0.0,0.3,0.5,Chelsea
+Ben Chilwell,eng ENG,"DF,MF",25,9,4,419.0,1.0,1.0,0.0,1.0,0.0,0.3,0.1,Chelsea
+Pierre-Emerick Aubameyang,ga GAB,FW,33,6,4,305.0,1.0,0.0,0.0,1.0,0.0,0.2,0.3,Chelsea
+Christian Pulisic,us USA,"FW,DF",24,13,3,421.0,1.0,1.0,0.0,1.0,0.0,0.9,0.5,Chelsea
+Armando Broja,al ALB,FW,21,12,2,294.0,1.0,0.0,0.0,0.0,0.0,0.8,0.1,Chelsea
+Wesley Fofana,fr FRA,DF,21,2,2,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea
+N'Golo Kanté,fr FRA,MF,31,2,2,174.0,0.0,0.0,0.0,0.0,0.0,0.1,0.3,Chelsea
+Hakim Ziyech,ma MAR,"MF,FW",29,5,1,152.0,0.0,0.0,0.0,0.0,0.0,0.2,0.1,Chelsea
+Lewis Hall,eng ENG,DF,18,1,1,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Chelsea
+Carney Chukwuemeka,eng ENG,MF,19,3,0,46.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Chelsea
+Ethan Ampadu,wls WAL,"DF,MF",22,0,0,,,,,,,,,Chelsea
+Marcus Bettinelli,eng ENG,GK,30,0,0,,,,,,,,,Chelsea
+Billy Gilmour,sct SCO,MF,21,0,0,,,,,,,,,Chelsea
+Callum Hudson-Odoi,eng ENG,"FW,MF",22,0,0,,,,,,,,,Chelsea
+Omari Hutchinson,eng ENG,DF,19,0,0,,,,,,,,,Chelsea
+Harvey Vale,eng ENG,MF,19,0,0,,,,,,,,,Chelsea
+Denis Zakaria,ch SUI,MF,26,0,0,,,,,,,,,Chelsea
+Squad Total,,,,14,154,1260.0,17.0,12.0,2.0,34.0,2.0,15.4,11.6,Chelsea
+Tim Ream,us USA,DF,35,15,15,1347.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Fulham
+Andreas Pereira,br BRA,MF,26,15,15,1240.0,2.0,4.0,1.0,3.0,0.0,2.2,2.8,Fulham
+João Palhinha,pt POR,MF,27,14,14,1251.0,2.0,0.0,0.0,5.0,0.0,0.8,0.0,Fulham
+Bobby Reid,jm JAM,"FW,DF",29,14,14,1211.0,3.0,1.0,0.0,6.0,0.0,2.5,0.6,Fulham
+Harrison Reed,eng ENG,MF,27,14,14,1175.0,2.0,1.0,0.0,5.0,0.0,1.0,1.6,Fulham
+Bernd Leno,de GER,GK,30,13,13,1170.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Antonee Robinson,us USA,DF,25,13,13,1108.0,0.0,0.0,0.0,4.0,0.0,0.0,0.3,Fulham
+Aleksandar Mitrović,rs SRB,FW,28,12,12,1017.0,9.0,0.0,3.0,4.0,0.0,7.7,1.3,Fulham
+Tosin Adarabioyo,eng ENG,DF,25,10,10,900.0,1.0,0.0,0.0,0.0,0.0,0.1,0.0,Fulham
+Neeskens Kebano,cd COD,FW,30,12,9,713.0,0.0,3.0,0.0,0.0,0.0,0.5,1.4,Fulham
+Kenny Tete,nl NED,DF,27,9,8,708.0,0.0,3.0,0.0,5.0,0.0,0.1,0.3,Fulham
+Issa Diop,fr FRA,DF,25,8,6,598.0,1.0,0.0,0.0,1.0,0.0,0.3,0.0,Fulham
+Willian,br BRA,FW,34,8,6,564.0,1.0,1.0,0.0,0.0,0.0,1.7,1.2,Fulham
+Carlos Vinícius,br BRA,FW,27,9,3,327.0,0.0,0.0,0.0,1.0,0.0,0.3,0.4,Fulham
+Daniel James,wls WAL,FW,25,8,3,307.0,1.0,0.0,0.0,0.0,0.0,1.3,0.3,Fulham
+Harry Wilson,wls WAL,FW,25,7,3,268.0,0.0,0.0,0.0,0.0,0.0,0.4,0.1,Fulham
+Marek Rodák,sk SVK,GK,25,2,2,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Tom Cairney,sct SCO,MF,31,15,1,343.0,0.0,0.0,0.0,0.0,0.0,0.4,0.5,Fulham
+Kevin Mbabu,ch SUI,"DF,FW",27,6,1,144.0,0.0,1.0,0.0,1.0,0.0,0.0,0.4,Fulham
+Jay Stansfield,eng ENG,FW,20,3,1,87.0,0.0,0.0,0.0,0.0,0.0,0.3,0.1,Fulham
+Layvin Kurzawa,fr FRA,DF,30,1,1,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Nathaniel Chalobah,eng ENG,MF,27,3,1,11.0,0.0,0.0,0.0,0.0,1.0,0.1,0.0,Fulham
+Manor Solomon,il ISR,FW,23,1,0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Josh Onomah,eng ENG,MF,25,2,0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Luke Harris,wls WAL,"FW,MF",17,2,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Shane Duffy,ie IRL,"FW,DF",30,4,0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Tyrese Francois,au AUS,FW,22,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham
+Terry Ablade,fi FIN,FW,21,0,0,,,,,,,,,Fulham
+Rodrigo Muniz,br BRA,FW,21,0,0,,,,,,,,,Fulham
+Stefan Parkes,eng ENG,DF,18,0,0,,,,,,,,,Fulham
+Kristian Sekularac,eng ENG,MF,18,0,0,,,,,,,,,Fulham
+Squad Total,,,,15,165,1350.0,22.0,14.0,4.0,36.0,1.0,19.6,11.3,Fulham
+David Raya,es ESP,GK,27,15,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford
+Rico Henry,eng ENG,DF,25,15,15,1346.0,0.0,1.0,0.0,0.0,0.0,0.5,0.8,Brentford
+Mathias Jensen,dk DEN,MF,26,15,15,1127.0,1.0,3.0,0.0,2.0,0.0,0.5,2.0,Brentford
+Bryan Mbeumo,cm CMR,FW,23,15,15,1120.0,3.0,1.0,1.0,3.0,0.0,3.6,1.6,Brentford
+Ivan Toney,eng ENG,FW,26,14,14,1260.0,10.0,2.0,3.0,5.0,0.0,8.0,2.1,Brentford
+Ben Mee,eng ENG,DF,33,14,14,1208.0,2.0,0.0,0.0,1.0,0.0,1.2,0.1,Brentford
+Vitaly Janelt,de GER,"MF,DF",24,15,11,990.0,1.0,1.0,0.0,1.0,0.0,1.0,0.7,Brentford
+Aaron Hickey,sct SCO,DF,20,9,8,679.0,0.0,0.0,0.0,4.0,0.0,0.1,0.0,Brentford
+Josh Dasilva,eng ENG,MF,24,15,7,687.0,2.0,1.0,0.0,1.0,0.0,0.5,1.1,Brentford
+Ethan Pinnock,jm JAM,DF,29,7,7,630.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,Brentford
+Yoane Wissa,cd COD,FW,26,15,6,642.0,3.0,1.0,0.0,1.0,0.0,2.6,1.0,Brentford
+Pontus Jansson,se SWE,DF,31,6,6,514.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford
+Kristoffer Ajer,no NOR,DF,24,6,6,502.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford
+Mathias Jørgensen,dk DEN,DF,32,8,5,457.0,0.0,0.0,0.0,0.0,0.0,0.4,0.1,Brentford
+Mads Roerslev,dk DEN,DF,23,7,5,433.0,0.0,0.0,0.0,0.0,0.0,0.1,0.5,Brentford
+Frank Onyeka,ng NGA,MF,24,12,4,442.0,0.0,1.0,0.0,0.0,0.0,0.4,0.5,Brentford
+Shandon Baptiste,gd GRN,MF,24,12,4,431.0,0.0,0.0,0.0,1.0,0.0,0.2,0.7,Brentford
+Christian Nørgaard,dk DEN,MF,28,5,4,338.0,1.0,0.0,0.0,0.0,0.0,0.4,0.1,Brentford
+Keane Lewis-Potter,eng ENG,"FW,MF",21,7,3,287.0,0.0,1.0,0.0,0.0,0.0,0.5,1.2,Brentford
+Mikkel Damsgaard,dk DEN,"MF,FW",22,9,1,267.0,0.0,0.0,0.0,2.0,0.0,0.4,0.4,Brentford
+Sergi Canós,es ESP,"FW,DF",25,4,0,74.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Brentford
+Saman Ghoddos,ir IRN,"MF,FW",29,6,0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford
+Mads Bech Sørensen,dk DEN,"DF,MF",23,3,0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford
+Halil Dervişoğlu,tr TUR,MF,22,1,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford
+Matthew Cox,eng ENG,GK,19,0,0,,,,,,,,,Brentford
+Tristan Crama,fr FRA,MF,21,0,0,,,,,,,,,Brentford
+Finley Stevens,wls WAL,DF,19,0,0,,,,,,,,,Brentford
+Thomas Strakosha,al ALB,GK,27,0,0,,,,,,,,,Brentford
+Ryan Trevitt,eng ENG,MF,19,0,0,,,,,,,,,Brentford
+Yehor Yarmoliuk,ua UKR,MF,18,0,0,,,,,,,,,Brentford
+Squad Total,,,,15,165,1350.0,23.0,12.0,4.0,21.0,0.0,20.3,12.9,Brentford
+Vicente Guaita,es ESP,GK,35,14,14,1260.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Crystal-Palace
+Marc Guéhi,eng ENG,DF,22,14,14,1260.0,0.0,0.0,0.0,5.0,0.0,0.2,0.1,Crystal-Palace
+Eberechi Eze,eng ENG,"MF,FW",24,14,14,1139.0,2.0,3.0,0.0,0.0,0.0,2.0,2.1,Crystal-Palace
+Joachim Andersen,dk DEN,DF,26,13,13,1170.0,1.0,0.0,0.0,2.0,0.0,0.9,0.4,Crystal-Palace
+Wilfried Zaha,ci CIV,"FW,MF",30,13,13,1147.0,6.0,2.0,0.0,3.0,0.0,4.6,1.6,Crystal-Palace
+Jeffrey Schlupp,gh GHA,MF,29,14,12,1094.0,0.0,0.0,0.0,3.0,0.0,1.0,0.3,Crystal-Palace
+Tyrick Mitchell,eng ENG,DF,23,14,12,977.0,0.0,2.0,0.0,2.0,0.0,0.1,0.6,Crystal-Palace
+Cheick Doucouré,ml MLI,MF,22,12,12,963.0,0.0,1.0,0.0,4.0,0.0,0.4,1.0,Crystal-Palace
+Joel Ward,eng ENG,DF,33,12,11,1021.0,0.0,0.0,0.0,4.0,0.0,0.0,0.1,Crystal-Palace
+Jordan Ayew,gh GHA,"FW,MF",31,14,11,904.0,0.0,1.0,0.0,1.0,0.0,0.7,1.2,Crystal-Palace
+Odsonne Édouard,fr FRA,FW,24,13,9,767.0,3.0,2.0,0.0,3.0,0.0,1.9,0.8,Crystal-Palace
+Michael Olise,fr FRA,"MF,FW",20,13,8,754.0,1.0,2.0,0.0,1.0,0.0,0.9,1.7,Crystal-Palace
+Nathaniel Clyne,eng ENG,DF,31,8,7,580.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,Crystal-Palace
+Jean-Philippe Mateta,fr FRA,FW,25,11,2,283.0,1.0,0.0,0.0,2.0,0.0,1.2,0.5,Crystal-Palace
+Luka Milivojević,rs SRB,MF,31,9,2,279.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Crystal-Palace
+Will Hughes,eng ENG,MF,27,8,0,92.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Crystal-Palace
+James Tomkins,eng ENG,DF,33,1,0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal-Palace
+Chris Richards,us USA,DF,22,3,0,47.0,0.0,0.0,0.0,0.0,0.0,0.1,0.3,Crystal-Palace
+Jaïro Riedewald,nl NED,"DF,FW",26,3,0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal-Palace
+Malcolm Ebiowei,eng ENG,"MF,FW",19,3,0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal-Palace
+Kofi Balmer,nir NIR,DF,22,0,0,,,,,,,,,Crystal-Palace
+Owen Goodman,eng ENG,GK,19,0,0,,,,,,,,,Crystal-Palace
+John-Kymani Gordon,eng ENG,FW,19,0,0,,,,,,,,,Crystal-Palace
+Sam Johnstone,eng ENG,GK,29,0,0,,,,,,,,,Crystal-Palace
+Killian Phillips,ie IRL,DF,20,0,0,,,,,,,,,Crystal-Palace
+Luke Plange,eng ENG,FW,20,0,0,,,,,,,,,Crystal-Palace
+Kaden Rodney,eng ENG,MF,18,0,0,,,,,,,,,Crystal-Palace
+Jack Wells-Morrison,eng ENG,MF,18,0,0,,,,,,,,,Crystal-Palace
+Joseph Whitworth,eng ENG,GK,18,0,0,,,,,,,,,Crystal-Palace
+Squad Total,,,,14,154,1260.0,14.0,13.0,0.0,32.0,0.0,14.0,10.8,Crystal-Palace
+Emiliano Martínez,ar ARG,GK,30,15,15,1294.0,0.0,0.0,0.0,2.0,0.0,0.0,0.3,Aston-Villa
+Ezri Konsa,eng ENG,DF,25,15,14,1261.0,0.0,0.0,0.0,2.0,0.0,0.5,0.5,Aston-Villa
+Ollie Watkins,eng ENG,FW,26,14,13,1172.0,2.0,3.0,0.0,1.0,0.0,4.3,1.9,Aston-Villa
+Tyrone Mings,eng ENG,DF,29,13,13,1170.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,Aston-Villa
+John McGinn,sct SCO,MF,28,15,12,1056.0,0.0,0.0,0.0,4.0,0.0,1.0,0.7,Aston-Villa
+Matty Cash,pl POL,DF,25,13,12,1028.0,0.0,0.0,0.0,3.0,0.0,0.2,0.7,Aston-Villa
+Jacob Ramsey,eng ENG,MF,21,15,12,1021.0,2.0,2.0,0.0,4.0,0.0,1.1,1.2,Aston-Villa
+Leon Bailey,jm JAM,"FW,MF",25,14,11,827.0,3.0,2.0,0.0,4.0,0.0,1.9,2.0,Aston-Villa
+Douglas Luiz,br BRA,MF,24,14,10,930.0,1.0,2.0,0.0,1.0,1.0,0.2,1.3,Aston-Villa
+Lucas Digne,fr FRA,DF,29,10,9,811.0,1.0,0.0,0.0,2.0,0.0,0.2,0.5,Aston-Villa
+Danny Ings,eng ENG,FW,30,14,8,726.0,5.0,0.0,2.0,3.0,0.0,3.8,0.4,Aston-Villa
+Boubacar Kamara,fr FRA,MF,23,9,8,669.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,Aston-Villa
+Ashley Young,eng ENG,DF,37,11,7,729.0,1.0,0.0,0.0,3.0,0.0,0.2,0.7,Aston-Villa
+Emi Buendía,ar ARG,"FW,MF",25,15,7,726.0,1.0,0.0,0.0,0.0,0.0,2.6,0.8,Aston-Villa
+Philippe Coutinho,br BRA,"MF,FW",30,12,6,571.0,0.0,0.0,0.0,2.0,0.0,1.0,0.3,Aston-Villa
+Leander Dendoncker,be BEL,MF,27,8,3,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,Aston-Villa
+Diego Carlos,br BRA,DF,29,2,2,179.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,Aston-Villa
+Calum Chambers,eng ENG,DF,27,3,1,101.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston-Villa
+Jan Bednarek,pl POL,DF,26,2,1,91.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston-Villa
+Ludwig Augustinsson,se SWE,DF,28,2,1,53.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Aston-Villa
+Robin Olsen,se SWE,GK,32,1,0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston-Villa
+Cameron Archer,eng ENG,"FW,MF",21,6,0,49.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston-Villa
+Morgan Sanson,fr FRA,MF,28,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston-Villa
+Lamare Bogarde,nl NED,MF,18,0,0,,,,,,,,,Aston-Villa
+Tim Iroegbunam,eng ENG,MF,19,0,0,,,,,,,,,Aston-Villa
+Marvelous Nakamba,zw ZIM,MF,28,0,0,,,,,,,,,Aston-Villa
+Squad Total,,,,15,165,1350.0,16.0,9.0,2.0,37.0,1.0,17.1,11.7,Aston-Villa
+Danny Ward,wls WAL,GK,29,15,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester-City
+James Justin,eng ENG,DF,24,14,14,1252.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,Leicester-City
+Youri Tielemans,be BEL,MF,25,15,14,1165.0,3.0,1.0,1.0,1.0,0.0,2.0,2.4,Leicester-City
+Kiernan Dewsbury-Hall,eng ENG,MF,24,15,14,1134.0,1.0,2.0,0.0,1.0,0.0,0.7,2.1,Leicester-City
+Timothy Castagne,be BEL,DF,26,14,13,1191.0,1.0,2.0,0.0,0.0,0.0,1.4,1.1,Leicester-City
+James Maddison,eng ENG,"MF,FW",26,13,13,1098.0,7.0,4.0,0.0,5.0,0.0,2.6,2.9,Leicester-City
+Harvey Barnes,eng ENG,MF,24,13,13,1086.0,6.0,0.0,0.0,0.0,0.0,3.5,0.6,Leicester-City
+Daniel Amartey,gh GHA,DF,27,12,10,915.0,0.0,0.0,0.0,0.0,0.0,0.1,0.5,Leicester-City
+Jonny Evans,nir NIR,DF,34,9,9,810.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Leicester-City
+Wout Faes,be BEL,DF,24,9,9,810.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,Leicester-City
+Boubakary Soumaré,fr FRA,MF,23,11,9,668.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,Leicester-City
+Jamie Vardy,eng ENG,FW,35,15,8,751.0,1.0,4.0,0.0,1.0,0.0,2.1,0.4,Leicester-City
+Patson Daka,zm ZAM,FW,24,14,7,642.0,3.0,2.0,0.0,2.0,0.0,2.3,1.8,Leicester-City
+Wilfred Ndidi,ng NGA,"MF,DF",25,10,7,638.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Leicester-City
+Luke Thomas,eng ENG,DF,21,4,3,273.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Leicester-City
+Dennis Praet,be BEL,MF,28,7,2,266.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Leicester-City
+Wesley Fofana,fr FRA,DF,21,2,2,180.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Leicester-City
+Kelechi Iheanacho,ng NGA,"FW,MF",26,10,1,219.0,1.0,1.0,0.0,0.0,0.0,1.5,0.6,Leicester-City
+Ayoze Pérez,es ESP,MF,29,5,1,148.0,0.0,1.0,0.0,0.0,0.0,0.4,1.2,Leicester-City
+Çağlar Söyüncü,tr TUR,DF,26,1,1,71.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester-City
+Nampalys Mendy,sn SEN,MF,30,6,0,152.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Leicester-City
+Marc Albrighton,eng ENG,MF,33,3,0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester-City
+Samuel Braybrooke,eng ENG,MF,18,0,0,,,,,,,,,Leicester-City
+Lewis Brunt,eng ENG,DF,22,0,0,,,,,,,,,Leicester-City
+Daniel Iversen,dk DEN,GK,25,0,0,,,,,,,,,Leicester-City
+Jannik Vestergaard,dk DEN,DF,30,0,0,,,,,,,,,Leicester-City
+Squad Total,,,,15,165,1350.0,23.0,17.0,1.0,19.0,0.0,17.6,14.2,Leicester-City
+Jefferson Lerma,co COL,"MF,DF",28,15,15,1350.0,2.0,0.0,0.0,3.0,0.0,1.2,0.3,Bournemouth
+Adam Smith,eng ENG,DF,31,15,15,1305.0,0.0,1.0,0.0,4.0,0.0,0.4,0.4,Bournemouth
+Marcus Tavernier,eng ENG,"MF,FW",23,15,15,1283.0,2.0,4.0,0.0,1.0,0.0,1.7,2.2,Bournemouth
+Chris Mepham,wls WAL,DF,25,14,14,1251.0,0.0,0.0,0.0,5.0,0.0,0.3,0.1,Bournemouth
+Lewis Cook,eng ENG,MF,25,15,13,1193.0,0.0,2.0,0.0,2.0,0.0,0.1,2.0,Bournemouth
+Philip Billing,dk DEN,"MF,FW",26,15,13,1133.0,4.0,1.0,0.0,1.0,0.0,1.2,1.2,Bournemouth
+Dominic Solanke,eng ENG,"FW,MF",25,13,12,1071.0,3.0,3.0,0.0,0.0,0.0,2.4,1.1,Bournemouth
+Marcos Senesi,ar ARG,DF,25,12,11,939.0,0.0,0.0,0.0,1.0,0.0,0.1,0.2,Bournemouth
+Jordan Zemura,zw ZIM,DF,23,11,9,788.0,0.0,1.0,0.0,1.0,0.0,0.0,0.9,Bournemouth
+Ryan Christie,sct SCO,"MF,FW",27,13,9,718.0,1.0,0.0,0.0,1.0,0.0,1.3,0.3,Bournemouth
+Kieffer Moore,wls WAL,FW,30,15,8,750.0,4.0,0.0,0.0,0.0,0.0,2.0,0.3,Bournemouth
+Neto,br BRA,GK,33,8,8,675.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Bournemouth
+Mark Travers,ie IRL,GK,23,8,7,675.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth
+Ryan Fredericks,eng ENG,DF,30,8,5,451.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Bournemouth
+Lloyd Kelly,eng ENG,DF,24,5,5,450.0,0.0,2.0,0.0,0.0,0.0,0.0,0.1,Bournemouth
+Ben Pearson,eng ENG,MF,27,5,3,214.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Bournemouth
+Jaidon Anthony,eng ENG,"FW,MF",22,10,1,272.0,2.0,0.0,0.0,0.0,0.0,0.9,0.1,Bournemouth
+Jack Stacey,eng ENG,DF,26,6,1,134.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Bournemouth
+Jack Stephens,eng ENG,DF,28,3,1,93.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Bournemouth
+Junior Stanislas,eng ENG,MF,33,4,0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Bournemouth
+Joe Rothwell,eng ENG,"MF,DF",27,2,0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth
+Owen Bevan,wls WAL,DF,19,1,0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth
+Emiliano Marcondes,dk DEN,MF,27,1,0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth
+Siriki Dembélé,ci CIV,FW,26,1,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth
+Jamal Lowe,jm JAM,FW,28,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth
+Will Dennis,eng ENG,GK,22,0,0,,,,,,,,,Bournemouth
+James Hill,eng ENG,DF,20,0,0,,,,,,,,,Bournemouth
+Cameron Plain,eng ENG,GK,20,0,0,,,,,,,,,Bournemouth
+Christian Saydee,lr LBR,MF,20,0,0,,,,,,,,,Bournemouth
+Squad Total,,,,15,165,1350.0,18.0,14.0,0.0,24.0,0.0,11.6,9.5,Bournemouth
+Illan Meslier,fr FRA,GK,22,14,14,1260.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds-United
+Robin Koch,de GER,DF,26,14,14,1215.0,0.0,0.0,0.0,3.0,0.0,0.2,0.0,Leeds-United
+Brenden Aaronson,us USA,"MF,FW",22,14,14,1189.0,1.0,2.0,0.0,2.0,0.0,1.9,2.9,Leeds-United
+Marc Roca,es ESP,MF,26,14,14,1031.0,1.0,1.0,0.0,3.0,0.0,0.9,0.5,Leeds-United
+Tyler Adams,us USA,MF,23,13,13,1166.0,0.0,0.0,0.0,4.0,1.0,0.0,0.9,Leeds-United
+Pascal Struijk,nl NED,DF,23,13,13,1164.0,1.0,1.0,0.0,2.0,0.0,0.9,2.3,Leeds-United
+Rasmus Nissen,dk DEN,DF,25,12,12,1048.0,0.0,1.0,0.0,4.0,0.0,0.4,0.8,Leeds-United
+Jack Harrison,eng ENG,"FW,MF",26,13,12,937.0,1.0,3.0,0.0,2.0,0.0,1.3,1.9,Leeds-United
+Rodrigo,es ESP,"FW,MF",31,13,12,886.0,9.0,1.0,1.0,1.0,0.0,5.4,1.2,Leeds-United
+Liam Cooper,sct SCO,DF,31,8,7,675.0,1.0,0.0,0.0,1.0,0.0,0.4,0.4,Leeds-United
+Diego Llorente,es ESP,DF,29,7,7,630.0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,Leeds-United
+Luis Sinisterra,co COL,FW,23,9,6,453.0,2.0,0.0,0.0,3.0,1.0,1.5,0.2,Leeds-United
+Crysencio Summerville,nl NED,"FW,MF",21,10,4,473.0,4.0,0.0,0.0,1.0,0.0,1.5,0.3,Leeds-United
+Patrick Bamford,eng ENG,FW,29,10,4,429.0,0.0,1.0,0.0,0.0,0.0,4.1,0.3,Leeds-United
+Daniel James,wls WAL,FW,25,4,2,198.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,Leeds-United
+Sam Greenwood,eng ENG,"MF,FW",20,6,1,188.0,1.0,1.0,0.0,0.0,0.0,0.5,0.3,Leeds-United
+Joe Gelhardt,eng ENG,FW,20,11,1,169.0,0.0,1.0,0.0,1.0,0.0,0.7,0.1,Leeds-United
+Luke Ayling,eng ENG,DF,31,7,1,159.0,0.0,1.0,0.0,0.0,0.0,0.2,0.1,Leeds-United
+Junior Firpo,es ESP,DF,26,2,1,114.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Leeds-United
+Degnand Gnonto,it ITA,"FW,MF",19,3,1,109.0,0.0,1.0,0.0,0.0,0.0,0.0,0.6,Leeds-United
+Cody Drameh,eng ENG,DF,20,1,1,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds-United
+Mateusz Klich,pl POL,"MF,FW",32,11,0,199.0,0.0,0.0,0.0,1.0,0.0,0.1,0.2,Leeds-United
+Adam Forshaw,eng ENG,MF,31,3,0,50.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,Leeds-United
+Mateo Fernández,es ESP,MF,19,1,0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds-United
+Leo Fuhr Hjelde,no NOR,DF,19,0,0,,,,,,,,,Leeds-United
+Archie Gray,eng ENG,MF,16,0,0,,,,,,,,,Leeds-United
+Darko Gyabi,eng ENG,MF,18,0,0,,,,,,,,,Leeds-United
+Kristoffer Klaesson,no NOR,GK,22,0,0,,,,,,,,,Leeds-United
+Sonny Perkins,eng ENG,FW,18,0,0,,,,,,,,,Leeds-United
+Joel Robles,es ESP,GK,32,0,0,,,,,,,,,Leeds-United
+Squad Total,,,,14,154,1260.0,21.0,14.0,1.0,29.0,2.0,20.3,13.5,Leeds-United
+Declan Rice,eng ENG,MF,23,15,15,1350.0,1.0,1.0,0.0,2.0,0.0,1.4,1.8,West-Ham-United
+Jarrod Bowen,eng ENG,FW,25,15,15,1340.0,2.0,0.0,1.0,0.0,0.0,4.3,1.9,West-Ham-United
+Tomáš Souček,cz CZE,MF,27,15,15,1307.0,1.0,1.0,0.0,1.0,0.0,2.5,0.6,West-Ham-United
+Łukasz Fabiański,pl POL,GK,37,15,15,1243.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,West-Ham-United
+Aaron Cresswell,eng ENG,DF,32,14,14,1240.0,0.0,0.0,0.0,2.0,0.0,0.2,2.5,West-Ham-United
+Kurt Zouma,fr FRA,DF,28,14,14,1184.0,1.0,0.0,0.0,0.0,0.0,1.1,0.0,West-Ham-United
+Thilo Kehrer,de GER,DF,26,13,13,1170.0,0.0,0.0,0.0,4.0,0.0,0.3,0.2,West-Ham-United
+Pablo Fornals,es ESP,"FW,MF",26,14,9,776.0,1.0,0.0,0.0,0.0,0.0,0.6,1.0,West-Ham-United
+Gianluca Scamacca,it ITA,FW,23,13,9,755.0,2.0,0.0,0.0,3.0,0.0,2.1,0.6,West-Ham-United
+Saïd Benrahma,dz ALG,"FW,MF",27,13,7,751.0,2.0,1.0,1.0,0.0,0.0,2.4,1.1,West-Ham-United
+Vladimír Coufal,cz CZE,"DF,MF",30,9,7,685.0,0.0,0.0,0.0,1.0,0.0,0.1,0.6,West-Ham-United
+Lucas Paquetá,br BRA,"MF,FW",25,8,7,587.0,0.0,2.0,0.0,2.0,0.0,1.3,0.6,West-Ham-United
+Michail Antonio,jm JAM,FW,32,14,6,607.0,2.0,1.0,0.0,1.0,0.0,2.0,0.4,West-Ham-United
+Ben Johnson,eng ENG,DF,22,7,6,488.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,West-Ham-United
+Craig Dawson,eng ENG,DF,32,5,5,450.0,0.0,0.0,0.0,2.0,0.0,0.1,0.1,West-Ham-United
+Flynn Downes,eng ENG,MF,23,6,3,265.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,West-Ham-United
+Emerson Palmieri,it ITA,"DF,MF",28,7,3,224.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,West-Ham-United
+Manuel Lanzini,ar ARG,"MF,FW",29,5,1,126.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,West-Ham-United
+Maxwel Cornet,ci CIV,FW,26,5,1,91.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,West-Ham-United
+Alphonse Areola,fr FRA,GK,29,2,0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,West-Ham-United
+Nayef Aguerd,ma MAR,DF,26,1,0,76.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,West-Ham-United
+Angelo Ogbonna,it ITA,DF,34,2,0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,West-Ham-United
+Conor Coventry,ie IRL,"MF,FW",22,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,West-Ham-United
+Harrison Ashby,sct SCO,DF,21,0,0,,,,,,,,,West-Ham-United
+Armstrong Okoflex,ie IRL,MF,20,0,0,,,,,,,,,West-Ham-United
+Darren Randolph,ie IRL,GK,35,0,0,,,,,,,,,West-Ham-United
+Nikola Vlašić,hr CRO,"FW,MF",25,0,0,,,,,,,,,West-Ham-United
+Squad Total,,,,15,165,1350.0,12.0,6.0,2.0,19.0,0.0,18.6,11.6,West-Ham-United
+James Tarkowski,eng ENG,DF,30,15,15,1350.0,0.0,0.0,0.0,2.0,0.0,0.8,0.8,Everton
+Alex Iwobi,ng NGA,MF,26,15,15,1332.0,1.0,5.0,0.0,1.0,0.0,0.7,2.6,Everton
+Demarai Gray,eng ENG,"FW,MF",26,15,15,1284.0,1.0,0.0,0.0,1.0,0.0,2.4,2.1,Everton
+Vitaliy Mykolenko,ua UKR,"DF,MF",23,15,15,1283.0,0.0,0.0,0.0,2.0,0.0,0.4,0.5,Everton
+Jordan Pickford,eng ENG,GK,28,14,14,1260.0,0.0,1.0,0.0,3.0,0.0,0.0,0.1,Everton
+Conor Coady,eng ENG,DF,29,14,14,1250.0,1.0,1.0,0.0,1.0,0.0,0.6,0.3,Everton
+Amadou Onana,be BEL,MF,21,14,12,1035.0,0.0,1.0,0.0,4.0,0.0,1.7,1.0,Everton
+Anthony Gordon,eng ENG,FW,21,14,11,983.0,3.0,0.0,0.0,6.0,0.0,2.7,0.6,Everton
+Idrissa Gana Gueye,sn SEN,MF,33,10,9,738.0,0.0,0.0,0.0,3.0,0.0,0.0,0.1,Everton
+Nathan Patterson,sct SCO,"DF,MF",21,10,8,767.0,0.0,0.0,0.0,1.0,0.0,0.5,0.3,Everton
+Dwight McNeil,eng ENG,"FW,DF",23,15,8,734.0,2.0,0.0,0.0,2.0,0.0,0.6,1.2,Everton
+Séamus Coleman,ie IRL,DF,34,8,7,605.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,Everton
+Neal Maupay,fr FRA,FW,26,10,6,553.0,1.0,0.0,0.0,1.0,0.0,2.0,0.5,Everton
+Dominic Calvert-Lewin,eng ENG,FW,25,6,4,339.0,1.0,0.0,0.0,1.0,0.0,1.5,0.2,Everton
+Mason Holgate,eng ENG,DF,26,4,3,320.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,Everton
+Tom Davies,eng ENG,MF,24,7,3,298.0,0.0,0.0,0.0,2.0,0.0,0.5,0.1,Everton
+Abdoulaye Doucouré,ml MLI,MF,29,7,2,186.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Everton
+Salomón Rondón,ve VEN,FW,33,7,1,109.0,0.0,0.0,0.0,0.0,0.0,0.8,0.2,Everton
+Asmir Begović,ba BIH,GK,35,1,1,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Yerry Mina,co COL,DF,28,1,1,69.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Everton
+Ben Godfrey,eng ENG,DF,24,1,1,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+James Garner,eng ENG,MF,21,6,0,142.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Everton
+Dele Alli,eng ENG,MF,26,2,0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Rúben Vinagre,pt POR,"DF,MF",23,2,0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Michael Keane,eng ENG,DF,29,1,0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Everton
+Thomas Cannon,ie IRL,FW,19,1,0,17.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Everton
+Kyle Alex John,eng ENG,DF,21,0,0,,,,,,,,,Everton
+Allan,br BRA,"DF,MF",31,0,0,,,,,,,,,Everton
+Jean-Philippe Gbamin,ci CIV,"DF,MF",27,0,0,,,,,,,,,Everton
+André Gomes,pt POR,MF,29,0,0,,,,,,,,,Everton
+Eldin Jakupović,ch SUI,GK,38,0,0,,,,,,,,,Everton
+Stanley Mills,eng ENG,MF,19,0,0,,,,,,,,,Everton
+Lewis Warrington,eng ENG,MF,20,0,0,,,,,,,,,Everton
+Reece Welch,eng ENG,DF,19,0,0,,,,,,,,,Everton
+Squad Total,,,,15,165,1350.0,10.0,8.0,0.0,33.0,0.0,15.4,11.1,Everton
+Dean Henderson,eng ENG,GK,25,15,15,1350.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,Nottingham-Forest
+Scott McKenna,sct SCO,DF,26,14,14,1260.0,0.0,0.0,0.0,4.0,0.0,0.1,0.8,Nottingham-Forest
+Brennan Johnson,wls WAL,"FW,MF",21,15,13,1187.0,2.0,0.0,1.0,2.0,0.0,3.2,0.7,Nottingham-Forest
+Neco Williams,wls WAL,DF,21,15,12,1078.0,0.0,0.0,0.0,3.0,0.0,0.9,1.2,Nottingham-Forest
+Morgan Gibbs-White,eng ENG,"FW,MF",22,13,12,1036.0,2.0,2.0,0.0,1.0,0.0,2.2,2.1,Nottingham-Forest
+Ryan Yates,eng ENG,MF,25,13,11,1033.0,0.0,1.0,0.0,3.0,0.0,1.5,0.6,Nottingham-Forest
+Steve Cook,eng ENG,DF,31,12,11,957.0,0.0,0.0,0.0,4.0,0.0,0.1,0.6,Nottingham-Forest
+Jesse Lingard,eng ENG,"FW,MF",29,13,10,809.0,0.0,0.0,0.0,1.0,0.0,1.0,0.7,Nottingham-Forest
+Remo Freuler,ch SUI,MF,30,11,9,831.0,0.0,0.0,0.0,2.0,0.0,0.1,0.2,Nottingham-Forest
+Cheikhou Kouyaté,sn SEN,"MF,DF",32,12,9,704.0,1.0,0.0,0.0,2.0,0.0,0.3,0.6,Nottingham-Forest
+Joe Worrall,eng ENG,DF,25,11,7,717.0,0.0,0.0,0.0,4.0,0.0,0.2,0.5,Nottingham-Forest
+Harry Toffolo,eng ENG,DF,27,8,6,577.0,0.0,0.0,0.0,0.0,0.0,0.2,0.4,Nottingham-Forest
+Serge Aurier,ci CIV,DF,29,7,6,530.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,Nottingham-Forest
+Lewis O'Brien,eng ENG,MF,24,11,6,525.0,1.0,0.0,0.0,2.0,0.0,0.3,0.2,Nottingham-Forest
+Taiwo Awoniyi,ng NGA,FW,25,13,6,512.0,3.0,0.0,0.0,0.0,0.0,3.6,0.7,Nottingham-Forest
+Renan Lodi,br BRA,DF,24,7,6,505.0,0.0,0.0,0.0,1.0,0.0,0.4,0.1,Nottingham-Forest
+Emmanuel Dennis,ng NGA,FW,25,9,3,345.0,1.0,1.0,0.0,2.0,0.0,0.6,0.3,Nottingham-Forest
+Orel Mangala,be BEL,MF,24,7,3,267.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Nottingham-Forest
+Moussa Niakhate,fr FRA,DF,26,2,2,160.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,Nottingham-Forest
+Willy Boly,ci CIV,DF,31,2,2,152.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Nottingham-Forest
+Jack Colback,eng ENG,MF,33,4,1,147.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,Nottingham-Forest
+Sam Surridge,eng ENG,FW,24,8,1,136.0,0.0,0.0,0.0,1.0,0.0,0.2,0.1,Nottingham-Forest
+Giulian Biancone,fr FRA,DF,22,2,0,17.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nottingham-Forest
+Alexander Mighten,eng ENG,FW,20,1,0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nottingham-Forest
+Cafú,pt POR,MF,29,1,0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nottingham-Forest
+Loïc Bade,fr FRA,DF,22,0,0,,,,,,,,,Nottingham-Forest
+Oliver Hammond,wls WAL,MF,20,0,0,,,,,,,,,Nottingham-Forest
+Wayne Hennessey,wls WAL,GK,35,0,0,,,,,,,,,Nottingham-Forest
+Loïc Mbe Soh,fr FRA,DF,21,0,0,,,,,,,,,Nottingham-Forest
+Dale Taylor,nir NIR,FW,18,0,0,,,,,,,,,Nottingham-Forest
+Lyle Taylor,ms MSR,FW,32,0,0,,,,,,,,,Nottingham-Forest
+Squad Total,,,,15,165,1350.0,10.0,4.0,1.0,36.0,0.0,15.3,10.1,Nottingham-Forest
+Gavin Bazunu,ie IRL,GK,20,15,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,Southampton
+James Ward-Prowse,eng ENG,MF,28,15,15,1350.0,1.0,2.0,0.0,2.0,0.0,0.7,2.7,Southampton
+Mohammed Salisu,gh GHA,DF,23,14,14,1260.0,0.0,1.0,0.0,4.0,0.0,0.7,0.5,Southampton
+Che Adams,sct SCO,FW,26,14,12,1066.0,4.0,1.0,0.0,0.0,0.0,3.9,1.7,Southampton
+Mohamed Elyounoussi,no NOR,"MF,FW",28,14,12,985.0,0.0,1.0,0.0,2.0,0.0,2.0,1.3,Southampton
+Kyle Walker-Peters,eng ENG,DF,25,11,11,952.0,1.0,0.0,0.0,2.0,0.0,0.7,0.7,Southampton
+Armel Bella Kotchap,de GER,DF,20,11,11,903.0,0.0,1.0,0.0,1.0,0.0,0.7,0.1,Southampton
+Adam Armstrong,eng ENG,FW,25,14,11,869.0,1.0,1.0,0.0,0.0,0.0,1.1,0.7,Southampton
+Joe Aribo,ng NGA,"MF,FW",26,15,10,944.0,2.0,0.0,0.0,1.0,0.0,1.4,0.8,Southampton
+Romain Perraud,fr FRA,DF,25,13,10,851.0,2.0,2.0,0.0,1.0,0.0,0.9,1.5,Southampton
+Stuart Armstrong,sct SCO,"MF,FW",30,14,7,690.0,1.0,0.0,0.0,2.0,0.0,1.0,1.5,Southampton
+Roméo Lavia,be BEL,MF,18,7,6,557.0,1.0,0.0,0.0,2.0,0.0,0.2,0.2,Southampton
+Ibrahima Diallo,fr FRA,MF,23,9,6,450.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Southampton
+Moussa Djenepo,ml MLI,"DF,FW",24,10,5,526.0,0.0,1.0,0.0,0.0,0.0,0.1,0.2,Southampton
+Duje Ćaleta-Car,hr CRO,DF,26,7,5,486.0,0.0,0.0,0.0,1.0,0.0,0.2,0.0,Southampton
+Ainsley Maitland-Niles,eng ENG,"MF,DF",25,7,4,412.0,0.0,0.0,0.0,2.0,0.0,0.0,0.2,Southampton
+Lyanco,br BRA,DF,25,7,2,236.0,0.0,0.0,0.0,2.0,0.0,0.1,0.0,Southampton
+Sekou Mara,fr FRA,"FW,MF",20,9,2,214.0,0.0,1.0,0.0,0.0,0.0,0.7,0.5,Southampton
+Jan Bednarek,pl POL,DF,26,2,2,159.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,Southampton
+Juan Larios,es ESP,DF,18,5,2,152.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton
+Theo Walcott,eng ENG,"FW,MF",33,3,1,113.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Southampton
+Oriol Romeu,es ESP,MF,31,1,1,74.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton
+Yan Valery,tn TUN,DF,23,1,1,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton
+Samuel Edozie,eng ENG,"MF,FW",19,8,0,159.0,0.0,0.0,0.0,0.0,0.0,0.3,0.1,Southampton
+Jack Stephens,eng ENG,DF,28,2,0,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton
+Nathan Redmond,eng ENG,DF,28,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton
+Ryan Finnigan,eng ENG,MF,19,0,0,,,,,,,,,Southampton
+Alex McCarthy,eng ENG,GK,32,0,0,,,,,,,,,Southampton
+Lewis Payne,eng ENG,DF,18,0,0,,,,,,,,,Southampton
+Squad Total,,,,15,165,1350.0,13.0,11.0,0.0,24.0,0.0,14.7,12.6,Southampton
+Max Kilman,eng ENG,DF,25,15,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,Wolverhampton-Wanderers
+José Sá,pt POR,GK,29,15,15,1350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolverhampton-Wanderers
+Rúben Neves,pt POR,"MF,DF",25,14,14,1260.0,4.0,0.0,2.0,6.0,0.0,2.3,0.4,Wolverhampton-Wanderers
+Nathan Collins,ie IRL,DF,21,12,12,1022.0,0.0,0.0,0.0,2.0,1.0,0.0,0.1,Wolverhampton-Wanderers
+Daniel Podence,pt POR,"FW,MF",27,15,12,1020.0,2.0,0.0,0.0,3.0,0.0,2.1,1.6,Wolverhampton-Wanderers
+João Moutinho,pt POR,MF,36,13,11,997.0,0.0,0.0,0.0,2.0,0.0,0.8,1.5,Wolverhampton-Wanderers
+Jonny Castro,es ESP,DF,28,12,11,979.0,0.0,0.0,0.0,3.0,0.0,0.3,0.3,Wolverhampton-Wanderers
+Matheus Nunes,pt POR,MF,24,12,11,857.0,0.0,1.0,0.0,1.0,0.0,1.1,1.2,Wolverhampton-Wanderers
+Gonçalo Guedes,pt POR,"FW,MF",25,12,8,689.0,1.0,1.0,0.0,1.0,0.0,1.2,0.5,Wolverhampton-Wanderers
+Nélson Semedo,pt POR,DF,29,13,8,675.0,0.0,1.0,0.0,3.0,1.0,0.0,0.2,Wolverhampton-Wanderers
+Pedro Neto,pt POR,"FW,MF",22,8,8,599.0,0.0,0.0,0.0,1.0,0.0,0.7,1.2,Wolverhampton-Wanderers
+Rayan Aït Nouri,fr FRA,DF,21,10,7,666.0,0.0,0.0,0.0,1.0,0.0,0.4,0.8,Wolverhampton-Wanderers
+Adama Traoré,es ESP,"FW,MF",26,12,6,622.0,1.0,0.0,0.0,0.0,0.0,0.6,1.0,Wolverhampton-Wanderers
+Hugo Bueno,es ESP,DF,20,6,5,451.0,0.0,1.0,0.0,1.0,0.0,0.1,0.4,Wolverhampton-Wanderers
+Diego Costa,es ESP,FW,34,6,5,412.0,0.0,0.0,0.0,0.0,1.0,1.7,0.2,Wolverhampton-Wanderers
+Boubacar Traoré,ml MLI,MF,21,8,4,384.0,0.0,1.0,0.0,2.0,0.0,0.1,0.2,Wolverhampton-Wanderers
+Hwang Hee-chan,kr KOR,FW,26,11,3,325.0,0.0,1.0,0.0,0.0,0.0,0.4,0.7,Wolverhampton-Wanderers
+Toti Gomes,pt POR,DF,23,3,3,259.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,Wolverhampton-Wanderers
+Leander Dendoncker,be BEL,MF,27,4,2,214.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,Wolverhampton-Wanderers
+Raúl Jiménez,mx MEX,FW,31,3,2,212.0,0.0,0.0,0.0,0.0,0.0,0.8,0.4,Wolverhampton-Wanderers
+Morgan Gibbs-White,eng ENG,"FW,MF",22,2,2,180.0,0.0,0.0,0.0,1.0,0.0,0.7,0.1,Wolverhampton-Wanderers
+Sasa Kalajdzic,at AUT,FW,25,1,1,45.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,Wolverhampton-Wanderers
+Joseph Hodge,ie IRL,MF,20,3,0,79.0,0.0,0.0,0.0,1.0,0.0,0.1,0.0,Wolverhampton-Wanderers
+Chem Campbell,wls WAL,"FW,MF",19,5,0,74.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,Wolverhampton-Wanderers
+Dexter Lembikisa,jm JAM,DF,19,1,0,23.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolverhampton-Wanderers
+Connor Ronan,ie IRL,MF,24,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolverhampton-Wanderers
+Willy Boly,ci CIV,DF,31,0,0,,,,,,,,,Wolverhampton-Wanderers
+Conor Coady,eng ENG,"DF,MF",29,0,0,,,,,,,,,Wolverhampton-Wanderers
+Luke Cundle,eng ENG,MF,20,0,0,,,,,,,,,Wolverhampton-Wanderers
+Nathan Fraser,ie IRL,FW,17,0,0,,,,,,,,,Wolverhampton-Wanderers
+Harvey Griffiths,eng ENG,MF,19,0,0,,,,,,,,,Wolverhampton-Wanderers
+Yerson Mosquera,co COL,DF,21,0,0,,,,,,,,,Wolverhampton-Wanderers
+Matija Šarkić,me MNE,GK,25,0,0,,,,,,,,,Wolverhampton-Wanderers
+Squad Total,,,,15,165,1350.0,8.0,6.0,2.0,29.0,3.0,14.9,10.9,Wolverhampton-Wanderers
