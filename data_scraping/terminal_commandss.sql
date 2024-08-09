@@ -1,8 +1,5 @@
 psql 
-
-CREATE DATABASE prem_stats;
-
-GRANT ALL PRIVILEGES ON DATABASE "prem_stats" TO username; 
+GRANT ALL PRIVILEGES ON DATABASE "prem_stats" TO postgres; 
 GRANT ALL PRIVILEGES ON DATABASE "prem_stats" TO postgres;
 
 CREATE TABLE player_data (
@@ -25,7 +22,6 @@ CREATE TABLE player_data (
 
 SELECT * FROM player_data;
 
---copy the csv file over to postgres
-\COPY player_data FROM 'destination_to_file' DELIMITER ',' CSV HEADER; 
+COPY player_data FROM 'C:/dev/prem/data_scraping/stats.csv' DELIMITER ',' CSV HEADER; 
 
 SELECT * FROM player_data;
